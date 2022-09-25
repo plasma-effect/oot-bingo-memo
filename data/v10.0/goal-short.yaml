@@ -1,0 +1,1471 @@
+99-rupees:
+  difficulty: 1
+  jp: 99ルピー
+  name: 99 Rupees
+  skill: 0.5
+  subtypes:
+    incrupees: 100
+  time: 0.5
+  types:
+    selfsynergy: 0
+fairy-ocarina:
+  difficulty: 1
+  jp: 妖精のオカリナ
+  name: Fairy Ocarina
+  skill: 0.5
+  subtypes:
+    bottle: 1
+    songs: 0.25
+  time: 0.5
+  types:
+    field: 0.75
+    incocarina: 100
+    selfsynergy: 0
+20-deku-sticks:
+  difficulty: 2
+  jp: デクの棒20本
+  name: 20 Deku Sticks
+  skill: 1
+  time: 1
+  types:
+    selfsynergy: 0
+    sticks: 100
+30-deku-nuts:
+  difficulty: 2
+  jp: デクの実30個以上
+  name: 30 Deku Nuts
+  skill: 1
+  subtypes:
+    plant: 0.5
+    songs: 0.5
+    wallet: 0.25
+  time: 1
+  types:
+    selfsynergy: 0
+bullet-bag-50-:
+  difficulty: 2
+  jp: デクのタネ袋(50)
+  name: Bullet Bag (50)
+  skill: 1.25
+  subtypes:
+    plant: 0.25
+  time: 1.25
+  types:
+    bulletbag: 100
+    selfsynergy: 0
+lost-dog-hp:
+  difficulty: 2
+  jp: リチャードのハートのかけら
+  name: Lost Dog HP
+  skill: 1.25
+  subtypes:
+    hearts: 1
+  time: 1.25
+  types:
+    field: 0.75
+    selfsynergy: 0
+map-compass-in-bottom-of-the-well:
+  difficulty: 2
+  jp: 井戸の底のマップとコンパス
+  name: Map & Compass in Bottom of the Well
+  skill: 1
+  subtypes:
+    compass: 0.5
+    map: 0.5
+  time: 1
+  types:
+    selfsynergy: 0
+plant-3-magic-beans:
+  difficulty: 4
+  jp: 魔法の豆を3ヶ所に埋める
+  name: Plant 3 Magic Beans
+  skill: 2
+  time: 2.25
+  types:
+    beans: 10
+    incbeans: 100
+    plant: 2
+    selfsynergy: -0.5
+bottled-fairy:
+  difficulty: 5
+  jp: ビン(妖精)
+  name: Bottled Fairy
+  skill: 2.5
+  time: 2.5
+  types:
+    bottle: 1.75
+    selfsynergy: 0
+green-potion:
+  difficulty: 5
+  jp: 緑のクスリ
+  name: Green Potion
+  skill: 2.5
+  time: 2.5
+  types:
+    bottle: 1.75
+    endbottle: -2.5
+    selfsynergy: 0
+plant-4-magic-beans:
+  difficulty: 5
+  jp: 魔法の豆を4ヶ所に埋める
+  name: Plant 4 Magic Beans
+  skill: 2.75
+  time: 3
+  types:
+    beans: 10
+    incbeans: 100
+    plant: 2.75
+    selfsynergy: -0.5
+red-potion:
+  difficulty: 5
+  jp: 赤いクスリ
+  name: Red Potion
+  skill: 2.5
+  time: 2.5
+  types:
+    bottle: 1.75
+    endbottle: -2.5
+    selfsynergy: 0
+all-3-skulltulas-in-bottom-of-the-well:
+  difficulty: 6
+  jp: 井戸の底の黄金のスタルチュラ3匹
+  name: All 3 Skulltulas in Bottom of the Well
+  skill: 3.25
+  subtypes:
+    wallet: 1.75
+  time: 3.25
+  types:
+    selfsynergy: 0
+bottled-poe:
+  difficulty: 6
+  jp: ビン(ポウ)
+  name: Bottled Poe
+  skill: 3
+  subtypes:
+    plant: 0.5
+  time: 3
+  types:
+    bottle: 1.75
+    endbottle: -2.5
+    selfsynergy: 0
+lon-lon-ranch-hp:
+  difficulty: 6
+  jp: ロンロン牧場のハートのかけら
+  name: Lon Lon Ranch HP
+  skill: 3
+  subtypes:
+    hearts: 1
+    wallet: 0.5
+  time: 3
+  types:
+    field: 0.75
+    lonlon: 1.75
+    selfsynergy: 0
+5-magic-beans:
+  difficulty: 7
+  jp: 魔法のマメ5つ以上
+  name: 5 Magic Beans
+  skill: 3.5
+  subtypes:
+    wallet: 0.25
+  time: 3.75
+  types:
+    beans: 9.75
+    incbeans: 100
+    selfsynergy: 0
+both-child-lost-woods-area-skulltulas:
+  difficulty: 7
+  jp: 迷いの森エリアの黄金のスタルチュラ2匹
+  name: Both Child Lost Woods area Skulltulas
+  skill: 3.5
+  subtypes:
+    plant: 1.25
+    songs: 1
+    wallet: 1
+  time: 3.5
+  types:
+    bottle: 1.75
+    saria: 0.25
+    selfsynergy: 0
+both-heart-pieces-in-death-mountain-crater:
+  difficulty: 7
+  jp: デスマウンテン火口のハートのかけら2つ
+  name: Both heart pieces in Death Mountain Crater
+  skill: 3.5
+  subtypes:
+    bosskey: 1
+    compass: 1
+    hearts: 2
+    map: 1
+    plant: 0.5
+    plant2: 1.5
+    songs: 1.5
+    wallet: 1
+  time: 3.5
+  types:
+    dmc: 3
+    selfsynergy: 0
+fairy-slingshot:
+  difficulty: 7
+  jp: 妖精のパチンコ
+  name: Fairy Slingshot
+  skill: 3.5
+  subtypes:
+    bulletbag: 100
+    compass: 2
+    ganon: 2.25
+    hearts: 2.5
+    map: 3
+    plant: 0.25
+    wallet: 0.25
+  time: 4
+  types:
+    deku: 2.25
+    selfsynergy: 0
+plant-bean-in-death-mountain-crater:
+  difficulty: 7
+  jp: デスマウンテン火口の土にマメを植える
+  name: Plant bean in Death Mountain Crater
+  skill: 3.5
+  subtypes:
+    compass: 1
+    hearts: 1
+    map: 1
+    plant: 0.75
+    plant2: 1.5
+    wallet: 0.5
+  time: 3.5
+  types:
+    beans: -1
+    dmc: 3
+    selfsynergy: 0
+both-child-kokiri-forest-area-skulltulas:
+  difficulty: 8
+  jp: コキリの森エリアの黄金のスタルチュラ2匹
+  name: Both Child Kokiri Forest area Skulltulas
+  skill: 4
+  subtypes:
+    plant: 0.5
+    wallet: 1
+  time: 4
+  types:
+    bottle: 1.75
+    selfsynergy: 0
+both-gerudo-valley-hps:
+  difficulty: 8
+  jp: ゲルドの谷のハートのかけら2つ
+  name: Both Gerudo Valley HPs
+  skill: 4.25
+  subtypes:
+    bosskey: 1
+    hearts: 2
+    plant: 0.5
+    plant2: 1.5
+    wallet: 0.25
+  time: 4.25
+  types:
+    field: 0.75
+    fortress: 1.5
+    selfsynergy: 0
+bullet-bag-40-:
+  difficulty: 8
+  jp: デクのタネ袋(40)
+  name: Bullet Bag (40)
+  skill: 4
+  subtypes:
+    compass: 3
+    ganon: 2.25
+    hearts: 2.5
+    map: 3
+    plant: 0.25
+    wallet: 0.25
+  time: 4.5
+  types:
+    bulletbag: 100
+    deku: 2.75
+    selfsynergy: 0
+golden-scale:
+  difficulty: 8
+  jp: 金のウロコ
+  name: Golden Scale
+  skill: 4
+  subtypes:
+    plant: 0.25
+    plant2: 1.5
+  time: 4
+  types:
+    fountain: 1
+    scale: 100
+    selfsynergy: 0
+map-compass-in-deku-tree:
+  difficulty: 8
+  jp: デクの樹様の中のマップとコンパス
+  name: Map & Compass in Deku Tree
+  skill: 4.25
+  subtypes:
+    compass: 4
+    ganon: 2.25
+    hearts: 3
+    map: 3.25
+    plant: 0.25
+    wallet: 0.5
+  time: 4.25
+  types:
+    deku: 2.75
+    selfsynergy: 0
+map-compass-in-dodongo-s-cavern:
+  difficulty: 8
+  jp: ドドンゴの洞窟のマップとコンパス
+  name: Map & Compass in Dodongo's Cavern
+  skill: 4
+  subtypes:
+    compass: 3.5
+    hearts: 1
+    map: 3
+    plant: 0.5
+    plant2: 1.5
+    wallet: 0.25
+  time: 4
+  types:
+    dc: 3
+    dmc: 1
+    selfsynergy: 0
+silver-scale:
+  difficulty: 8
+  jp: 銀のウロコ
+  name: Silver Scale
+  skill: 4
+  subtypes:
+    bottle: 1
+    plant2: 0.75
+  time: 4
+  types:
+    field: 0.25
+    fountain: 1
+    ruto: 4
+    scale: 100
+    selfsynergy: 0
+ice-arrows:
+  difficulty: 9
+  jp: 氷の矢
+  name: Ice Arrows
+  skill: 4.75
+  subtypes:
+    bosskey: 3.5
+    hearts: 0.75
+    kd: 2.5
+    plant2: 0.5
+  time: 4.75
+  types:
+    field: 0.75
+    fortress: 3
+    gtg: 2.5
+    selfsynergy: 0
+milk:
+  difficulty: 9
+  jp: ロンロン牛乳
+  name: Milk
+  skill: 4.75
+  subtypes:
+    bottle: 1.75
+    wallet: 0.5
+    zl: 1
+  time: 5.75
+  types:
+    endbottle: -2.5
+    field: 0.75
+    lonlon: 3.5
+    selfsynergy: 0
+ruto-s-letter:
+  difficulty: 9
+  jp: ルトの手紙
+  name: Ruto's Letter
+  skill: 4.5
+  subtypes:
+    plant2: 1.25
+  time: 4.5
+  types:
+    ruto: 4.5
+    selfsynergy: 0
+2-unused-keys-in-gerudo-training-grounds:
+  difficulty: 10
+  jp: ゲルドの修練場の未使用のカギ2つ
+  name: 2 unused keys in Gerudo Training Grounds
+  skill: 5.25
+  subtypes:
+    hearts: 0.75
+    kd: 2.5
+    plant2: 0.5
+  time: 5.25
+  types:
+    endon: -0.5
+    field: 0.75
+    fortress: 3
+    gtg: 2
+    incgtgkey: 100
+    selfsynergy: 0
+3-unused-keys-in-gerudo-training-grounds:
+  difficulty: 10
+  jp: ゲルドの修練場の未使用のカギ3つ
+  name: 3 unused keys in Gerudo Training Grounds
+  skill: 5.25
+  subtypes:
+    bosskey: 3
+    hearts: 0.75
+    kd: 2.5
+    plant2: 0.5
+  time: 5.25
+  types:
+    endon: -0.5
+    field: 0.75
+    fortress: 3
+    gtg: 2
+    incgtgkey: 100
+    selfsynergy: 0
+adult-s-wallet:
+  difficulty: 10
+  jp: 大人のサイフ
+  name: Adult's Wallet
+  skill: 5
+  subtypes:
+    bottle: 1
+    incrupees: 100
+    plant: 4
+  time: 5
+  types:
+    selfsynergy: -2
+    wallet: 6
+both-child-gerudo-valley-area-skulltulas:
+  difficulty: 10
+  jp: ゲルドの谷エリアの黄金のスタルチュラ2匹
+  name: Both Child Gerudo Valley area Skulltulas
+  skill: 5
+  subtypes:
+    bosskey: 1.5
+    hearts: 0.75
+    jabu: 0.25
+    plant: 1
+    plant2: 1.5
+    wallet: 1.25
+  time: 5
+  types:
+    field: 0.75
+    fortress: 2
+    gtg: 1
+    selfsynergy: 0
+defeat-queen-gohma:
+  difficulty: 10
+  jp: ゴーマ撃破
+  name: Defeat Queen Gohma
+  skill: 5
+  subtypes:
+    compass: 3.5
+    ganon: 3.75
+    hearts: 3
+    hearts2: 2
+    map: 3
+    plant: 0.25
+    wallet: 0.5
+  time: 5.25
+  types:
+    deku: 4.75
+    endon: -0.5
+    incgohma: 100
+    selfsynergy: 0
+plant-5-magic-beans:
+  difficulty: 10
+  jp: 魔法の豆を5ヶ所に埋める
+  name: Plant 5 Magic Beans
+  skill: 5.25
+  time: 5.5
+  types:
+    beans: 10
+    incbeans: 100
+    plant: 3.5
+    selfsynergy: -0.5
+200-rupees:
+  difficulty: 11
+  jp: 200ルピー
+  name: 200 Rupees
+  skill: 5.5
+  subtypes:
+    bottle: 1
+    plant: 4
+  time: 5.5
+  types:
+    incrupees: 100
+    selfsynergy: -2
+    wallet: 6
+30-deku-sticks:
+  difficulty: 11
+  jp: デクの棒30本
+  name: 30 Deku Sticks
+  skill: 5.5
+  time: 5.5
+  types:
+    dc: 3
+    selfsynergy: 0
+    sticks: 100
+defeat-a-white-wolfos:
+  difficulty: 11
+  jp: ホワイトウルフォス撃破
+  name: Defeat a White Wolfos
+  skill: 5.5
+  subtypes:
+    hearts: 0.75
+    plant2: 0.5
+  time: 5.5
+  types:
+    field: 0.75
+    fortress: 3
+    gtg: 1.5
+    ice: 1.5
+    irons: 1.5
+    selfsynergy: 0
+defeat-all-lizalfos-in-dodongo-s-cavern:
+  difficulty: 11
+  jp: ドドンゴの洞窟のリザルフォス全て撃破
+  name: Defeat all Lizalfos in Dodongo's Cavern
+  skill: 5.5
+  subtypes:
+    compass: 3
+    hearts: 2
+    map: 2.75
+    plant: 0.5
+    plant2: 1.5
+    wallet: 0.5
+  time: 5.5
+  types:
+    dc: 4
+    dmc: 1
+    endon: -0.5
+    selfsynergy: 0
+37th-heart-piece-child-fortress-:
+  difficulty: 12
+  jp: 37番目のハートのかけら(子供のゲルドの砦)
+  name: 37th heart piece (Child Fortress)
+  skill: 6.25
+  subtypes:
+    bosskey: 2
+    hearts: 1.75
+    kd: 2.5
+    plant2: 0.5
+  time: 6.25
+  types:
+    fortress: 2.5
+    selfsynergy: 0
+4-unused-keys-in-gerudo-training-grounds:
+  difficulty: 12
+  jp: ゲルドの修練場の未使用のカギ4つ
+  name: 4 unused keys in Gerudo Training Grounds
+  skill: 6.25
+  subtypes:
+    bosskey: 3
+    hearts: 0.75
+    kd: 2.5
+    plant2: 0.5
+  time: 6.25
+  types:
+    endon: -0.5
+    field: 0.75
+    fortress: 3
+    gtg: 3
+    incgtgkey: 100
+    selfsynergy: 0
+5-hearts:
+  difficulty: 12
+  jp: ハート5つ
+  name: 5 Hearts
+  skill: 6
+  subtypes:
+    plant: 1
+    plant2: 1
+    wallet: 1
+  time: 6
+  types:
+    hearts: 5
+    hearts2: 1
+    selfsynergy: -2
+all-4-child-zora-s-domain-area-skulltulas:
+  difficulty: 12
+  jp: ゾーラの里エリアの黄金のスタルチュラ8匹
+  name: All 4 Child Zora's Domain area Skulltulas
+  skill: 6
+  subtypes:
+    compass: 2
+    hearts: 0.75
+    jabu: 0.25
+    map: 2
+    ruto: 1
+    wallet: 2.5
+  time: 6
+  types:
+    fountain: 2
+    selfsynergy: 0
+6-magic-beans:
+  difficulty: 12
+  jp: 魔法のマメ6つ以上
+  name: 6 Magic Beans
+  skill: 6
+  subtypes:
+    wallet: 0.25
+  time: 6.25
+  types:
+    beans: 9.75
+    incbeans: 100
+    selfsynergy: 0
+blue-fire:
+  difficulty: 12
+  jp: 青い炎
+  name: Blue Fire
+  skill: 6
+  subtypes:
+    bosskey: 2.5
+    compass: 3.5
+    hearts: 3
+    hearts2: 2
+    map: 3
+    plant: 0.25
+    wallet: 0.75
+    zl: 2
+  time: 6
+  types:
+    bottle: 1.75
+    fountain: 2
+    ganon: 4.75
+    ice: 1.5
+    selfsynergy: 0
+bomb-bag-30-:
+  difficulty: 12
+  jp: ボム袋(30)
+  name: Bomb Bag (30)
+  skill: 6.25
+  subtypes:
+    compass: 3
+    fortress: 2.5
+    map: 2.75
+    plant: 0.5
+    plant2: 1.5
+    wallet: 1
+  time: 6.5
+  types:
+    dc: 4
+    dmc: 1
+    selfsynergy: 0
+defeat-big-octo:
+  difficulty: 12
+  jp: 大オクタ撃破
+  name: Defeat Big Octo
+  skill: 6.25
+  subtypes:
+    compass: 5
+    map: 5
+    ruto: 1
+    wallet: 0.75
+  time: 6.5
+  types:
+    fountain: 2
+    gtg: 1
+    jabu: 2.5
+    selfsynergy: 0
+3-maps:
+  difficulty: 13
+  jp: マップ3つ
+  name: 3 Maps
+  skill: 6.75
+  subtypes:
+    compass: 6
+    ganon: 2.25
+    hearts: 2
+    hearts2: 1.5
+    plant: 1
+    plant2: 1
+    wallet: 0.75
+  time: 6.75
+  types:
+    incmap: 100
+    map: 6
+    selfsynergy: 0
+all-3-child-lake-hylia-skulltulas:
+  difficulty: 13
+  jp: ハイリア湖畔エリアの黄金のスタルチュラ3匹以上
+  name: All 3 Child Lake Hylia Skulltulas
+  skill: 6.75
+  subtypes:
+    plant: 0.5
+    plant2: 1.5
+    ruto: 2
+    wallet: 1.75
+  time: 7
+  types:
+    bottle: 1.75
+    field: 0.75
+    fountain: 0.5
+    selfsynergy: 0
+boomerang:
+  difficulty: 13
+  jp: ブーメラン
+  name: Boomerang
+  skill: 6.75
+  subtypes:
+    compass: 6
+    hearts: 1
+    hearts2: 2
+    map: 6
+    ruto: 1
+    wallet: 1.5
+  time: 7
+  types:
+    fountain: 2
+    incbarinade: 100
+    jabu: 4.75
+    selfsynergy: 0
+ganon-s-castle-boss-key:
+  difficulty: 13
+  jp: ガノン城のボス部屋のカギ
+  name: Ganon's Castle Boss Key
+  skill: 6.75
+  subtypes:
+    bosskey: 4.25
+    hearts: 3
+    hearts2: 2
+    plant: 0.25
+    wallet: 0.5
+  time: 7
+  types:
+    bottle: 1.75
+    endon: -0.5
+    ganon: 4.75
+    incgohma: 100
+    selfsynergy: 0
+5-unused-keys-in-gerudo-training-grounds:
+  difficulty: 14
+  jp: ゲルドの修練場の未使用のカギ5つ
+  name: 5 unused keys in Gerudo Training Grounds
+  skill: 7
+  subtypes:
+    bosskey: 3
+    hearts: 0.75
+    kd: 2.5
+    plant2: 0.5
+  time: 7
+  types:
+    endon: -0.5
+    field: 0.75
+    fortress: 3
+    gtg: 4
+    incgtgkey: 100
+    selfsynergy: 0
+epona-s-song:
+  difficulty: 14
+  jp: エポナの歌
+  name: Epona's Song
+  skill: 7.25
+  subtypes:
+    wallet: 0.5
+    zl: 1
+  time: 8
+  types:
+    bottle: 1.5
+    field: 0.75
+    lonlon: 3.5
+    selfsynergy: 0
+requiem-of-spirit:
+  difficulty: 14
+  jp: 魂のレクイエム
+  name: Requiem of Spirit
+  skill: 7.25
+  subtypes:
+    bosskey: 2
+    hearts: 0.75
+    map: 2
+    plant: 0.5
+    plant2: 1.5
+    songs: 3
+    wallet: 0.5
+  time: 7.5
+  types:
+    endon: -0.5
+    field: 0.75
+    fortress: 2.5
+    selfsynergy: 0
+    spirit: 2.5
+all-4-skulltulas-in-jabu-jabu:
+  difficulty: 15
+  jp: ジャブジャブ様のお腹の黄金のスタルチュラ4匹
+  name: All 4 Skulltulas in Jabu-Jabu
+  skill: 7.75
+  subtypes:
+    compass: 5
+    hearts: 2
+    map: 5
+    ruto: 1
+    wallet: 2.5
+  time: 8
+  types:
+    endon: -0.5
+    fountain: 2
+    gtg: 1
+    jabu: 2.75
+    selfsynergy: 0
+7-magic-beans:
+  difficulty: 15
+  jp: 魔法のマメ7つ以上
+  name: 7 Magic Beans
+  skill: 7.75
+  subtypes:
+    wallet: 0.25
+  time: 8
+  types:
+    beans: 9.75
+    incbeans: 100
+    selfsynergy: 0
+both-hyrule-field-area-skulltulas:
+  difficulty: 15
+  jp: ハイラル平原エリアの黄金ノスタルチュラ2匹
+  name: Both Hyrule Field area Skulltulas
+  skill: 7.5
+  subtypes:
+    compass: 1
+    jabu: 1
+    map: 1
+    plant2: 0.5
+    wallet: 1.25
+  time: 25
+  types:
+    bottle: 1.75
+    field: 0.75
+    fortress: 1
+    selfsynergy: 0
+fill-all-4-bottle-slots:
+  difficulty: 15
+  jp: 4つの空きビンスロットを全て埋める
+  name: Fill all 4 Bottle Slots
+  skill: 7.75
+  subtypes:
+    plant2: 1.25
+  time: 7.75
+  types:
+    bottle: 100
+    ruto: 4.5
+    selfsynergy: 0
+15-different-skulltulas:
+  difficulty: 16
+  jp: スタルチュラのしるし15個(増殖禁止)
+  name: 15 Different Skulltulas
+  skill: 8
+  subtypes:
+    plant: 4.5
+    plant2: 2
+  time: 8
+  types:
+    bottle: 1.75
+    selfsynergy: -2
+    wallet: 8
+3-compasses:
+  difficulty: 16
+  jp: コンパス3つ
+  name: 3 Compasses
+  skill: 8
+  subtypes:
+    ganon: 2.25
+    hearts: 3
+    hearts2: 1.5
+    map: 8
+    plant: 1
+    plant2: 1
+    wallet: 0.75
+  time: 8
+  types:
+    compass: 8
+    inccomp: 100
+    selfsynergy: 0
+6-unused-keys-in-gerudo-training-grounds:
+  difficulty: 16
+  jp: ゲルドの修練場の未使用のカギ6つ
+  name: 6 unused keys in Gerudo Training Grounds
+  skill: 8
+  subtypes:
+    bosskey: 3
+    hearts: 0.75
+    kd: 2.5
+    plant2: 0.5
+  time: 8
+  types:
+    endon: -0.5
+    field: 0.75
+    fortress: 3
+    gtg: 5
+    incgtgkey: 100
+    selfsynergy: 0
+all-4-lon-lon-ranch-area-skulltulas:
+  difficulty: 16
+  jp: ロンロン牧場エリアの黄金のスタルチュラ4匹
+  name: All 4 Lon-Lon Ranch area Skulltulas
+  skill: 8
+  subtypes:
+    hearts: 0.25
+    jabu: 1.75
+    wallet: 2.5
+  time: 8
+  types:
+    field: 0.75
+    incranchskulls: 100
+    lonlon: 1.5
+    selfsynergy: 0
+all-4-skulltulas-in-deku-tree:
+  difficulty: 16
+  jp: デクの樹様の中の黄金のスタルチュラ4匹
+  name: All 4 Skulltulas in Deku Tree
+  skill: 8.25
+  subtypes:
+    compass: 3.75
+    ganon: 2.75
+    hearts: 3
+    jabu: 0.75
+    map: 3
+    plant: 0.25
+    wallet: 2.5
+  time: 8.25
+  types:
+    deku: 2.75
+    endon: -0.5
+    selfsynergy: 0
+all-5-skulltulas-in-dodongo-s-cavern:
+  difficulty: 16
+  jp: ドドンゴの洞窟の黄金のスタルチュラ5匹
+  name: All 5 Skulltulas in Dodongo's Cavern
+  skill: 8.25
+  subtypes:
+    compass: 3
+    hearts: 2
+    hearts2: 2
+    kd: 1.5
+    map: 2.75
+    plant: 0.5
+    plant2: 1.5
+    wallet: 3.25
+  time: 8.25
+  types:
+    dc: 3
+    dmc: 1
+    endon: -0.5
+    selfsynergy: 0
+beat-the-deku-tree:
+  difficulty: 16
+  jp: デクの樹様の中クリア
+  name: Beat the Deku Tree
+  skill: 8.25
+  subtypes:
+    compass: 3.5
+    ganon: 4.75
+    hearts: 3
+    hearts2: 2
+    map: 3
+    plant: 0.25
+    wallet: 0.5
+    zl: 2.25
+  time: 8.5
+  types:
+    bottle: 1.75
+    deku: 4.75
+    endon: -1
+    incgohma: 100
+    selfsynergy: 0
+defeat-king-dodongo:
+  difficulty: 16
+  jp: キングドドンゴ撃破
+  name: Defeat King Dodongo
+  skill: 8.25
+  subtypes:
+    compass: 3
+    hearts: 3
+    hearts2: 2
+    map: 2.75
+    plant: 0.5
+    plant2: 1.5
+    wallet: 1
+  time: 8.25
+  types:
+    dc: 4
+    dmc: 1
+    endon: -0.5
+    fortress: 2
+    inckd: 100
+    kd: 3
+    selfsynergy: 0
+keaton-mask:
+  difficulty: 16
+  jp: キータンのお面
+  name: Keaton Mask
+  skill: 8.25
+  subtypes:
+    hearts: 2
+    hearts2: 2
+  time: 10.25
+  types:
+    childtrade: 2
+    dmc: 0.5
+    field: 0.75
+    selfsynergy: 0
+    zl: 5.5
+kokiri-s-emerald:
+  difficulty: 16
+  jp: コキリのヒスイ
+  name: Kokiri's Emerald
+  skill: 8.25
+  subtypes:
+    compass: 3.5
+    ganon: 4.75
+    hearts: 3
+    hearts2: 2
+    map: 3
+    plant: 0.25
+    wallet: 0.5
+    zl: 2.25
+  time: 8.5
+  types:
+    bottle: 1.75
+    deku: 4.75
+    incgohma: 100
+    rbastones: 8.25
+    selfsynergy: 0
+all-5-child-death-mountain-area-skulltulas:
+  difficulty: 17
+  jp: デスマウンテンエリアの黄金のスタルチュラ5匹
+  name: All 5 Child Death Mountain area Skulltulas
+  skill: 8.5
+  subtypes:
+    childtrade: 1
+    compass: 1
+    hearts: 1.5
+    map: 1
+    plant: 0.5
+    plant2: 1.5
+    wallet: 3.25
+  time: 8.5
+  types:
+    bottle: 1.75
+    dmc: 3
+    selfsynergy: 0
+map-compass-in-jabu-jabu:
+  difficulty: 17
+  jp: ジャブジャブ様のお腹のマップとコンパス
+  name: Map & Compass in Jabu-Jabu
+  skill: 8.5
+  subtypes:
+    compass: 8.5
+    hearts: 0.5
+    map: 7.5
+    ruto: 1
+    wallet: 1
+  time: 8.5
+  types:
+    fountain: 2
+    jabu: 4.75
+    selfsynergy: 0
+all-7-child-kakariko-area-skulltulas:
+  difficulty: 18
+  jp: カカリコ村エリアの黄金のスタルチュラ7匹
+  name: All 7 Child Kakariko area Skulltulas
+  skill: 9
+  subtypes:
+    jabu: 0.75
+    plant: 0.5
+    wallet: 4.5
+  time: 9
+  types:
+    bottle: 1.75
+    selfsynergy: 0
+beat-jabu-jabu-s-belly:
+  difficulty: 18
+  jp: ジャブジャブ様のお腹クリア
+  name: Beat Jabu-Jabu's Belly
+  skill: 9.25
+  subtypes:
+    compass: 6
+    hearts: 3
+    hearts2: 2
+    map: 6
+    ruto: 1
+    wallet: 1
+  time: 10
+  types:
+    endon: -1
+    fountain: 2
+    incbarinade: 100
+    jabu: 7.25
+    selfsynergy: 0
+both-child-wasteland-colossus-area-skulltulas:
+  difficulty: 18
+  jp: 幻影の砂漠・巨大邪神像エリアの黄金のスタルチュラ2匹
+  name: Both Child Wasteland/ Colossus area Skulltulas
+  skill: 9
+  subtypes:
+    bosskey: 2
+    bosskey2: 4
+    hearts: 0.75
+    map: 2
+    plant: 0.5
+    plant2: 1.5
+    songs: 3
+    wallet: 1.25
+  time: 9
+  types:
+    bottle: 1.75
+    field: 0.75
+    fortress: 2.5
+    selfsynergy: 0
+    spirit: 2.5
+defeat-barinade:
+  difficulty: 18
+  jp: バリネード撃破
+  name: Defeat Barinade
+  skill: 9.25
+  subtypes:
+    compass: 6
+    hearts: 3
+    hearts2: 2
+    map: 6
+    ruto: 1
+    wallet: 1
+  time: 9.5
+  types:
+    endon: -0.5
+    fountain: 2
+    incbarinade: 100
+    jabu: 7.75
+    selfsynergy: 0
+saria-s-song:
+  difficulty: 18
+  jp: サリアの歌
+  name: Saria's Song
+  skill: 9
+  subtypes:
+    hearts: 2
+    hearts2: 2
+    plant: 0.5
+    wallet: 0.25
+  time: 10.5
+  types:
+    field: 0.75
+    incsaria: 100
+    saria: 2.75
+    selfsynergy: 0
+    zl: 5.5
+1-skulltula-from-each-child-dungeon:
+  difficulty: 19
+  jp: 全ての子供ダンジョンからスタルチュラ最低1匹ずつ
+  name: 1 Skulltula from each Child Dungeon
+  skill: 9.5
+  subtypes:
+    compass: 4
+    ganon: 2.25
+    map: 4
+    plant: 0.5
+    plant2: 1.5
+    ruto: 1
+    wallet: 3
+  time: 9.5
+  types:
+    dc: 2
+    deku: 2.75
+    dmc: 1
+    fountain: 2
+    jabu: 2.75
+    selfsynergy: -3.5
+goron-s-ruby:
+  difficulty: 19
+  jp: ゴロンのルビー
+  name: Goron's Ruby
+  skill: 9.5
+  subtypes:
+    compass: 3
+    hearts: 3
+    hearts2: 2
+    map: 2.75
+    plant: 0.5
+    plant2: 1.5
+    wallet: 1
+  time: 9.5
+  types:
+    dc: 4
+    dmc: 1
+    endon: -0.5
+    inckd: 100
+    kd: 3
+    rbastones: 9.5
+    selfsynergy: 0
+plant-6-magic-beans:
+  difficulty: 19
+  jp: 魔法の豆を6ヶ所に埋める
+  name: Plant 6 Magic Beans
+  skill: 9.75
+  time: 10
+  types:
+    beans: 10
+    incbeans: 100
+    plant: 4.5
+    selfsynergy: -0.5
+beat-dodongo-s-cavern:
+  difficulty: 20
+  jp: ドドンゴの洞窟クリア
+  name: Beat Dodongo's Cavern
+  skill: 10
+  subtypes:
+    compass: 3
+    fortress: 3
+    hearts: 3
+    hearts2: 2
+    map: 2.75
+    plant: 0.5
+    plant2: 1.5
+    wallet: 1
+  time: 10
+  types:
+    dc: 4
+    dmc: 1
+    endon: -1
+    inckd: 100
+    kd: 3
+    selfsynergy: 0
+defeat-a-skull-kid:
+  difficulty: 20
+  jp: スタルキッド撃破
+  name: Defeat a Skull Kid
+  skill: 10
+  subtypes:
+    plant: 0.25
+  time: 11.5
+  types:
+    field: 0.75
+    incsaria: 100
+    saria: 2.75
+    selfsynergy: 0
+    zl: 5.5
+gerudo-s-card:
+  difficulty: 20
+  jp: ゲルドの会員証
+  name: Gerudo's Card
+  skill: 10
+  subtypes:
+    bosskey: 2.5
+    hearts: 0.75
+    plant2: 0.5
+  time: 11.5
+  types:
+    field: 0.75
+    fortress: 2.5
+    selfsynergy: 0
+skull-mask:
+  difficulty: 20
+  jp: ドクロのお面
+  name: Skull Mask
+  skill: 10.25
+  subtypes:
+    hearts: 2
+    hearts2: 2
+    plant: 0.5
+    wallet: 0.25
+  time: 12.5
+  types:
+    childtrade: 4.25
+    field: 0.75
+    saria: 2.75
+    selfsynergy: 0
+    zl: 5.5
+zora-s-sapphire:
+  difficulty: 20
+  jp: ゾーラのサファイア
+  name: Zora's Sapphire
+  skill: 10.25
+  subtypes:
+    compass: 6
+    hearts: 3
+    hearts2: 2
+    map: 6
+    ruto: 1
+    wallet: 1
+  time: 11
+  types:
+    fountain: 2
+    incbarinade: 100
+    jabu: 7.25
+    rbastones: 10.25
+    selfsynergy: 0
+8-magic-beans:
+  difficulty: 21
+  jp: 魔法のマメ8つ以上
+  name: 8 Magic Beans
+  skill: 10.5
+  subtypes:
+    wallet: 0.5
+  time: 10.75
+  types:
+    beans: 9.75
+    incbeans: 100
+    selfsynergy: 0
+4-maps:
+  difficulty: 22
+  jp: マップ4つ
+  name: 4 Maps
+  skill: 11.25
+  subtypes:
+    bosskey2: 2
+    compass: 14
+    ganon: 2.25
+    hearts: 3
+    hearts2: 3
+    plant: 1
+    plant2: 1
+    wallet: 1
+  time: 11.25
+  types:
+    fountain: 2
+    incmap: 100
+    jabu: 4.75
+    map: 14
+    selfsynergy: -3
+6-hearts:
+  difficulty: 22
+  jp: ハート6つ
+  name: 6 Hearts
+  skill: 11
+  subtypes:
+    plant: 1
+    plant2: 1
+    wallet: 1
+  time: 11
+  types:
+    hearts: 8
+    hearts2: 4
+    selfsynergy: -2
+magic-bar:
+  difficulty: 22
+  jp: 魔力メーター
+  name: Magic Bar
+  skill: 11
+  subtypes:
+    hearts: 2
+    hearts2: 2
+  time: 12.5
+  types:
+    bottle: 1.75
+    dmc: 2.5
+    incmagic: 100
+    magic: 1.75
+    zl: 5.5
+ocarina-of-time:
+  difficulty: 22
+  jp: 時のオカリナ
+  name: Ocarina of Time
+  skill: 11
+  subtypes:
+    plant2: 0.5
+    songs: 3
+  time: 29
+  types:
+    bottle: 1.75
+    endon: -1.25
+    field: 0.75
+    fortress: 2.5
+    incocarina: 100
+    rbastones: 100
+    selfsynergy: 0
+    spirit: -2.5
+win-bombchu-bowling-prize:
+  difficulty: 22
+  jp: ボムチュウボウリングの景品
+  name: Win Bombchu Bowling Prize
+  skill: 11
+  subtypes:
+    compass: 3
+    fortress: 3
+    hearts: 3
+    hearts2: 2
+    map: 2.75
+    plant: 0.5
+    plant2: 1.5
+    wallet: 1
+  time: 11
+  types:
+    dc: 4
+    inckd: 100
+    kd: 3
+    selfsynergy: 0
+get-bombchu-chest-in-spirit-temple:
+  difficulty: 23
+  jp: 魂の神殿のボムチュウ取得
+  name: Get Bombchu chest in Spirit Temple
+  skill: 11.5
+  subtypes:
+    bosskey: 2
+    compass: 1
+    hearts: 0.75
+    map: 2
+    plant: 0.5
+    plant2: 1.5
+    wallet: 0.5
+  time: 11.5
+  types:
+    field: 0.75
+    fortress: 2.5
+    selfsynergy: 0
+    spirit: 6
+plant-7-magic-beans:
+  difficulty: 24
+  jp: 魔法の豆を7ヶ所に埋める
+  name: Plant 7 Magic Beans
+  skill: 12
+  time: 12.25
+  types:
+    beans: 10
+    field: 0.75
+    incbeans: 100
+    plant: 4.5
+    plant2: 2
+    selfsynergy: -2
+4-compasses:
+  difficulty: 25
+  jp: コンパス4つ
+  name: 4 Compasses
+  skill: 12.5
+  subtypes:
+    bosskey2: 2
+    ganon: 2.25
+    hearts: 3
+    hearts2: 4
+    map: 16
+    plant: 1
+    plant2: 1
+    wallet: 1
+  time: 12.5
+  types:
+    compass: 16
+    fountain: 2
+    inccomp: 100
+    jabu: 4.75
+    selfsynergy: -4
+double-magic:
+  difficulty: 25
+  jp: 魔力2倍
+  name: Double Magic
+  skill: 12.75
+  subtypes:
+    bosskey: 1
+    compass: 1
+    hearts: 2
+    hearts2: 2
+    map: 1
+    plant: 0.5
+    songs: 1
+    wallet: 0.5
+  time: 14.25
+  types:
+    bottle: 1.75
+    dmc: 1
+    field: 0.75
+    incmagic: 100
+    magic: 1.75
+    selfsynergy: 0
+    zl: 5.5

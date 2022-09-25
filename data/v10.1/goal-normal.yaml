@@ -1,0 +1,5238 @@
+giant-s-knife:
+  difficulty: 1
+  jp: 巨人のナイフ
+  name: Giant's Knife
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0
+    ms: 100
+  skill: 0
+  subtypes:
+    bulletbag: -3
+  time: 1
+  types:
+    incsword: 100
+    selfsynergy: 0
+    swords: 3
+  weight: 0.05
+bomb-bag-30-:
+  difficulty: 1
+  jp: ボム袋(30)
+  name: Bomb Bag (30)
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 0
+    ms: 3
+  skill: 0
+  subtypes:
+    bbprize: 100
+    botw: -1
+    childchu: -2.5
+    quiver: -0.5
+  time: 0
+  types:
+    bombbag: 100
+    selfsynergy: 0
+  weight: 0.20000000000000004
+exactly-20-deku-sticks:
+  difficulty: 1
+  jp: デクの棒20本
+  name: Exactly 20 Deku Sticks
+  rowtypes:
+    bottle: 1
+    gclw: 0
+    hookshot: 0
+    ms: 1
+  skill: 0
+  time: 0.75
+  types:
+    selfsynergy: 0
+    sticks: 100
+  weight: -0.10000000000000002
+defeat-a-skull-kid:
+  difficulty: 1
+  jp: スタルキッド撃破
+  name: Defeat a Skull Kid
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0
+    ms: 3.25
+  skill: 0
+  time: 0.75
+  types:
+    forest: 0.25
+    selfsynergy: 0
+  weight: -0.05
+bottled-fairy:
+  difficulty: 1
+  jp: ビン(妖精)
+  name: Bottled Fairy
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  time: 0.5
+  types:
+    selfsynergy: 0
+  weight: -0.05000000000000002
+bullet-bag-50-:
+  difficulty: 1
+  jp: デクのタネ袋(50)
+  name: Bullet Bag (50)
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    hearts4: 1
+    strength: -1
+  time: 0.5
+  types:
+    bulletbag: 100
+    selfsynergy: 0
+  weight: 0.05
+30-deku-nuts:
+  difficulty: 1
+  jp: デクの実30個以上
+  name: 30 Deku Nuts
+  rowtypes:
+    bottle: 0
+    gclw: 0.5
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    songs5: 0.5
+  time: 1
+  types:
+    forest: 0.5
+    selfsynergy: 0
+  weight: -0.05000000000000002
+lens-of-truth:
+  difficulty: 1
+  jp: まことのメガネ
+  name: Lens of Truth
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    ganonchu: -0.5
+  time: 0.25
+  types:
+    botw: 0
+    selfsynergy: 0
+  weight: 0.05000000000000002
+map-compass-in-bottom-of-the-well:
+  difficulty: 1
+  jp: 井戸の底のマップとコンパス
+  name: Map & Compass in Bottom of the Well
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    compass: 1
+    ganonchu: -1.5
+    map: 1
+  time: 1
+  types:
+    childchu: 0
+    selfsynergy: 0
+  weight: -0.10000000000000002
+goron-tunic:
+  difficulty: 2
+  jp: ゴロンの服
+  name: Goron Tunic
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0
+    ms: 100
+  skill: 0
+  subtypes:
+    bosskey: 0.5
+    songs5: 0.25
+  time: 1.25
+  types:
+    gtunic: 1
+    inctunic: 100
+    selfsynergy: 0
+  weight: 0.05000000000000002
+zora-tunic:
+  difficulty: 2
+  jp: ゾーラの服
+  name: Zora Tunic
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0
+    ms: 100
+  skill: 0
+  subtypes:
+    compass: 1.5
+    hearts3: 0.5
+    map: 1.5
+    skulls: 0.25
+  time: 1.25
+  types:
+    fountain: 1.5
+    inctunic: 100
+    selfsynergy: 0
+  weight: 1.3877787807814457e-17
+exactly-30-deku-sticks:
+  difficulty: 2
+  jp: デクの棒30本
+  name: Exactly 30 Deku Sticks
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 0
+    ms: 2
+  skill: 0
+  subtypes:
+    bulletbag: 100
+    childchu: -0.5
+  time: 1.5
+  types:
+    selfsynergy: 0
+    sticks: 100
+  weight: -0.1
+quiver-40-:
+  difficulty: 2
+  jp: 矢立て(40)
+  name: Quiver (40)
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 0
+    ms: 100
+  skill: 0
+  subtypes:
+    botw: -1
+    childchu: -2.5
+    quiver: 0.25
+  time: 1.5
+  types:
+    bombbag: 100
+    selfsynergy: 0
+  weight: 0.05
+minuet-of-forest:
+  difficulty: 2
+  jp: 森のメヌエット
+  name: Minuet of Forest
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0
+    ms: 100
+  skill: 0
+  subtypes:
+    bosskey2: 1.5
+    hovers: 0.25
+    lightarrow: -1.5
+    skulls: 0.5
+    songs5: 1.5
+  time: 1.75
+  types:
+    forest: 1.5
+    incforest: 100
+    incminuet: 100
+    selfsynergy: 0
+  weight: 0.1
+bolero-of-fire:
+  difficulty: 2
+  jp: 炎のボレロ
+  name: Bolero of Fire
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0.25
+    ms: 100
+  skill: 0
+  subtypes:
+    bosskey: 1.5
+    gtunic: 0.25
+    hearts3: 0.5
+    songs5: 1.25
+  time: 1.5
+  types:
+    dmc: 0.75
+    selfsynergy: 0
+  weight: -0.10000000000000002
+3-tunics:
+  difficulty: 3
+  jp: 服3種
+  name: 3 Tunics
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0
+    ms: 100
+  skill: 0
+  subtypes:
+    bosskey: 0.25
+    compass: 1.5
+    dmc: 0.25
+    hearts3: 0.5
+    map: 1.5
+    skulls: 0.5
+  time: 2.5
+  types:
+    fountain: 1.5
+    gtunic: 1
+    inctunic: 100
+    selfsynergy: 0
+  weight: 0.15000000000000002
+5-hearts:
+  difficulty: 3
+  jp: ハート5つ
+  name: 5 Hearts
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 1
+  skill: 0
+  time: 2.5
+  types:
+    hearts3: 4
+    inchearts: 100
+    selfsynergy: -1
+  weight: 0.40000000000000013
+2-skulltulas-in-lon-lon-ranch:
+  difficulty: 3
+  jp: ンロン牧場エリアの黄金のスタルチュラ2匹
+  name: 2 Skulltulas in Lon Lon Ranch
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    hearts4: 0.25
+    skulls: 1
+  time: 2
+  types:
+    incranchskulls: 100
+    lonlon: 1
+    selfsynergy: 0
+  weight: -0.10000000000000002
+lon-lon-ranch-hp:
+  difficulty: 3
+  jp: ロンロン牧場のハートのかけら
+  name: Lon Lon Ranch HP
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    hearts3: 0.75
+    hearts4: 0.25
+  time: 2.25
+  types:
+    lonlon: 1.75
+    selfsynergy: 0
+  weight: -0.25
+5-magic-beans:
+  difficulty: 3
+  jp: 魔法のマメ5つ以上
+  name: 5 Magic Beans
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    child2: 3
+    skulls: 0.25
+  time: 2.25
+  types:
+    beans: 4.75
+    childreset: 0.5
+    incbeans: 100
+    selfsynergy: 0
+  weight: -0.05000000000000002
+map-compass-in-dodongo-s-cavern:
+  difficulty: 3
+  jp: ドドンゴの洞窟のマップとコンパス
+  name: Map & Compass in Dodongo's Cavern
+  rowtypes:
+    bottle: 0
+    gclw: 0.5
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    compass: 1.75
+    map: 1
+  time: 2
+  types:
+    dc: 1
+    selfsynergy: 0
+  weight: -0.10000000000000002
+both-hps-in-death-mountain-crater:
+  difficulty: 3
+  jp: デスマウンテン火口のハートのかけら2つ
+  name: Both HPs in Death Mountain Crater
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0
+    ms: 0.5
+  skill: 0
+  subtypes:
+    bosskey: 1
+    dmcchild: 0.25
+    hearts3: 1.5
+    hovers: 0.25
+    songs5: 1.25
+  time: 2
+  types:
+    dmc: 0.5
+    selfsynergy: 0
+  weight: -0.05
+open-3-gold-rupee-chests:
+  difficulty: 4
+  jp: 金ルピーの宝箱を3つ開ける
+  name: Open 3 Gold Rupee Chests
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0
+    ms: 2
+  skill: 0
+  subtypes:
+    child2: 0.5
+    ganonchu: -0.5
+    songs5: 1
+  time: 3
+  types:
+    botw: 0
+    goldrupee: 15
+    incgolds: 100
+    selfsynergy: 0
+  weight: -0.05000000000000002
+silver-scale:
+  difficulty: 4
+  jp: 銀のウロコ
+  name: Silver Scale
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    bottleslot: 4
+    skulls: 100
+    strength: 100
+  time: 3
+  types:
+    inclhskull: 2
+    selfsynergy: 0
+  weight: 0.10000000000000002
+all-3-skulltulas-in-bottom-of-the-well:
+  difficulty: 4
+  jp: 井戸の底の黄金のスタルチュラ3匹
+  name: All 3 Skulltulas in Bottom of the Well
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0.75
+  subtypes:
+    ganonchu: -1.5
+    skulls: 1.5
+  time: 3
+  types:
+    childchu: 0
+    selfsynergy: 0
+  weight: -0.10000000000000002
+fire-temple-boss-key:
+  difficulty: 4
+  jp: 炎の神殿のボス部屋の鍵
+  name: Fire Temple Boss Key
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 100
+    ms: 12.25
+  skill: 0
+  subtypes:
+    bosskey: 2.5
+    firearrow: 2.5
+    gtunic: 0.25
+    hearts3: 0.5
+    songs5: 1
+  time: 3
+  types:
+    dmc: 1
+    fire: 0.25
+    incfirebk: 100
+    selfsynergy: 0
+  weight: 0.05
+ganon-s-castle-boss-key:
+  difficulty: 4
+  jp: ガノン城のボス部屋の鍵
+  name: Ganon's Castle Boss Key
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    bosskey: 4.25
+    hearts3: 2
+    hearts4: 1
+    skulls: 0.25
+  time: 3.25
+  types:
+    aganon: 3
+    bganon: -2.75
+    cganon: 2.75
+    endon: -0.5
+    selfsynergy: 0
+  weight: 0
+3-songs:
+  difficulty: 5
+  jp: 歌3つ以上
+  name: 3 Songs
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 0.5
+    ms: 3.75
+  skill: 0
+  subtypes:
+    czl: 1
+    hearts3: 0.5
+    saria: 1.75
+    skulls: 0.25
+  time: 4
+  types:
+    incsongs: 100
+    poachers: 3.5
+    selfsynergy: 0
+    songs4: 3
+    songs5: 2
+  weight: 0.35
+4-songs:
+  difficulty: 5
+  jp: 歌4つ以上
+  name: 4 Songs
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0.5
+    ms: 5.75
+  skill: 0
+  subtypes:
+    aganon: 0.25
+    botw: -1
+    childchu: -2.5
+    czl: 1
+    hearts3: 1
+    saria: 1.75
+  time: 4
+  types:
+    incsongs: 100
+    poachers: 3.5
+    selfsynergy: 0
+    songs4: 3
+    songs5: 2
+  weight: 0.3
+giant-s-wallet:
+  difficulty: 5
+  jp: 巨人のサイフ
+  name: Giant's Wallet
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 2
+    ms: 6
+  skill: 0.25
+  subtypes:
+    botw: -1
+    bulletbag: 100
+    childchu: -2.5
+  time: 3.75
+  types:
+    incbeans: 100
+    selfsynergy: -3
+    skulls: 100
+  weight: -0.10000000000000002
+3-swords-3-tunics:
+  difficulty: 5
+  jp: 剣3種、服3種
+  name: 3 Swords & 3 Tunics
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0
+    ms: 100
+  skill: 0
+  subtypes:
+    bosskey: 0.25
+    bulletbag: -3
+    childchu: -1
+    compass: 1
+    dmc: 0.25
+    hearts3: 0.5
+    skulls: 0.5
+  time: 3.75
+  types:
+    fountain: 1.5
+    gtunic: 1
+    incsword: 100
+    inctunic: 100
+    selfsynergy: 0
+    swords: 3
+  weight: -0.2
+4-maps:
+  difficulty: 5
+  jp: マップ4つ
+  name: 4 Maps
+  rowtypes:
+    bottle: 0
+    gclw: 0.5
+    hookshot: 0.5
+    ms: 0.5
+  skill: 0
+  subtypes:
+    bosskey2: 2
+    compass: 6
+    hearts4: 1
+  time: 3.5
+  types:
+    childchu: 0
+    hovers: 2
+    incmc: 100
+    map: 6
+    selfsynergy: -3
+  weight: 1.5000000000000004
+blue-potion:
+  difficulty: 5
+  jp: 青いクスリ
+  name: Blue Potion
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0.5
+    ms: 5.5
+  skill: 0
+  subtypes:
+    aganon: 0.25
+    botw: -1
+    childchu: -2.5
+    hearts3: 1
+  time: 4
+  types:
+    poachers: 3.5
+    selfsynergy: 0
+  weight: -0.10000000000000002
+blue-fire:
+  difficulty: 5
+  jp: 青い炎
+  name: Blue Fire
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    bosskey: 2.5
+    compass: 3
+    hearts3: 1
+    map: 3
+    skulls: 0.75
+  time: 3.5
+  types:
+    aganon: 2.5
+    bganon: -2.25
+    cganon: 2.25
+    fountain: 2
+    ice: 1.5
+    selfsynergy: 0
+  weight: 0.05
+7-different-bottled-contents:
+  difficulty: 5
+  jp: ビンに詰めたアイテム7種類
+  name: 7 Different Bottled Contents
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 0
+    ms: 2
+  skill: 0
+  subtypes:
+    child2: 3
+  time: 3.5
+  types:
+    aganon: 3
+    bganon: -2.75
+    bottleslot: 4.5
+    cganon: 2.75
+    endon: -0.5
+    ice: 0.25
+    selfsynergy: 0
+  weight: -0.1
+cow-in-house:
+  difficulty: 5
+  jp: 牛(リンクの家)
+  name: Cow in House
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 100
+  skill: 0
+  time: 4
+  types:
+    selfsynergy: 0
+  weight: -0.45000000000000007
+ruto-s-letter:
+  difficulty: 5
+  jp: ルトの手紙
+  name: Ruto's Letter
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    bottleslot: 4.5
+    child2: 3
+    jabu: 1.5
+    skulls: 0.5
+  time: 4
+  types:
+    inclhskull: 2
+    selfsynergy: 0
+  weight: -0.3
+all-4-adult-skulltulas-in-zora-s-domain-area:
+  difficulty: 5
+  jp: 大人時代のゾーラの里エリアの黄金のスタルチュラ4匹
+  name: All 4 Adult Skulltulas in Zora's Domain Area
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 100
+    ms: 100
+  skill: 0
+  subtypes:
+    compass: 2
+    hearts3: 1
+    map: 2
+    skulls: 2
+  time: 4
+  types:
+    fountain: 2
+    inczoraskull: 100
+    selfsynergy: 0
+  weight: -0.2
+both-gerudo-valley-hps:
+  difficulty: 5
+  jp: ゲルドの谷のハートのかけら2つ
+  name: Both Gerudo Valley HPs
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    bosskey: 1
+    hearts3: 1.5
+    hearts4: 0.5
+    hovers: 0.5
+    map: 1
+    skulls: 0.25
+  time: 3.5
+  types:
+    fortress: 1.5
+    selfsynergy: 0
+  weight: -0.05
+ice-cavern-hp:
+  difficulty: 5
+  jp: 氷の洞窟のハートのかけら
+  name: Ice Cavern HP
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0
+    ms: 1
+  skill: 0
+  subtypes:
+    compass: 3
+    hearts3: 1.5
+    map: 3
+    skulls: 1
+  time: 3.5
+  types:
+    fountain: 2
+    ice: 1.5
+    selfsynergy: 0
+  weight: -0.1
+fairy-slingshot:
+  difficulty: 5
+  jp: 妖精のパチンコ
+  name: Fairy Slingshot
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    bulletbag: 0.5
+    compass: 2
+    czl: 3
+    hearts4: 1
+    hovers: 0.5
+    map: 2
+  time: 3.5
+  types:
+    deku: 2.5
+    selfsynergy: 0
+  weight: 0
+map-compass-in-deku-tree:
+  difficulty: 5
+  jp: デクの樹様の中のマップとコンパス
+  name: Map & Compass in Deku Tree
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0.25
+  subtypes:
+    compass: 3
+    czl: 3
+    hearts4: 1
+    hovers: 0.5
+    map: 3
+    skulls: 0.5
+  time: 3.75
+  types:
+    deku: 3
+    selfsynergy: 0
+  weight: 0
+defeat-all-lizalfos-in-dodongo-s-cavern:
+  difficulty: 5
+  jp: ドドンゴの洞窟のリザルフォス全て撃破
+  name: Defeat all Lizalfos in Dodongo's Cavern
+  rowtypes:
+    bottle: 0
+    gclw: 0.5
+    hookshot: 0
+    ms: 1
+  skill: 0
+  subtypes:
+    compass: 2
+    hearts4: 1
+    map: 2
+    skulls: 0.5
+  time: 4
+  types:
+    dc: 2
+    selfsynergy: 0
+  weight: -0.35000000000000003
+defeat-king-dodongo:
+  difficulty: 5
+  jp: キングドドンゴ撃破
+  name: Defeat King Dodongo
+  rowtypes:
+    bottle: 0.5
+    gclw: 0.5
+    hookshot: 0
+    ms: 1
+  skill: 0
+  subtypes:
+    compass: 2
+    hearts3: 3
+    hearts4: 1
+    map: 2
+    skulls: 0.5
+  time: 4
+  types:
+    dc: 3
+    incdodongo: 100
+    kd: 2
+    selfsynergy: 0
+  weight: -0.25
+6-songs:
+  difficulty: 6
+  jp: 歌6つ以上
+  name: 6 Songs
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0.5
+    ms: 100
+  skill: 0
+  subtypes:
+    aganon: 0.25
+    botw: -1
+    childchu: -2.5
+    hearts3: 1.5
+    skulls: 0.25
+  time: 4.75
+  types:
+    incsongs: 100
+    poachers: 3.5
+    selfsynergy: 0
+    songs5: 1.25
+  weight: 0.1
+2-boss-keys:
+  difficulty: 6
+  jp: ボス部屋の鍵2つ
+  name: 2 Boss Keys
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 2
+    ms: 2
+  skill: 0
+  subtypes:
+    compass: 2
+    hearts3: 1
+    hearts4: 1
+    map: 3
+  time: 4.75
+  types:
+    aganon: 3
+    bganon: -2.75
+    bosskey: 6.75
+    cganon: 2.75
+    incbk: 100
+    selfsynergy: -2
+  weight: 1.35
+clear-4-silver-rupee-rooms:
+  difficulty: 6
+  jp: 銀ルピー部屋を4箇所攻略
+  name: Clear 4 Silver Rupee Rooms
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 2
+  skill: 0.25
+  subtypes:
+    compass: 1
+    skulls: 1
+  time: 4.25
+  types:
+    aganon: 1
+    bganon: -0.75
+    cganon: 0.75
+    fortress: 1
+    fountain: 2
+    gtg: 3
+    ice: 1.5
+    incsilvers: 100
+    selfsynergy: -3
+    shadow: 1
+    silverrupee: 4.25
+    spirit: 2
+  weight: 0.1
+fill-all-4-bottle-slots:
+  difficulty: 6
+  jp: 4つの空きビンスロットを全て埋める
+  name: Fill all 4 Bottle Slots
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 0
+    ms: 0.5
+  skill: 0
+  subtypes:
+    child2: 3
+    jabu: 1.5
+  time: 4.75
+  types:
+    bottleslot: 4.5
+    selfsynergy: 0
+  weight: -0.35
+both-hyrule-field-area-skulltulas:
+  difficulty: 6
+  jp: ハイラル平原エリアの黄金ノスタルチュラ2匹
+  name: Both Hyrule Field area Skulltulas
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 2
+    ms: 1
+  skill: 0.5
+  subtypes:
+    hearts4: 0.5
+    skulls: 1
+  time: 4.25
+  types:
+    fortress: 1
+    selfsynergy: 0
+  weight: -0.2
+all-3-kokiri-forest-area-skulltulas:
+  difficulty: 6
+  jp: コキリの森エリアの黄金のスタルチュラ3匹
+  name: All 3 Kokiri Forest area Skulltulas
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0.5
+    ms: 100
+  skill: 0
+  subtypes:
+    child2: 1
+    skulls: 1.5
+  time: 4.5
+  types:
+    childreset: 1.25
+    deku: 0.25
+    selfsynergy: 0
+  weight: -0.35
+bullet-bag-40-:
+  difficulty: 6
+  jp: デクのタネ袋(40)
+  name: Bullet Bag (40)
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    czl: 3
+    hearts4: 1
+    strength: -1
+  time: 4.5
+  types:
+    bulletbag: 100
+    childreset: 1.25
+    deku: 3
+    selfsynergy: 0
+  weight: -0.15000000000000002
+milk:
+  difficulty: 6
+  jp: ロンロン牛乳
+  name: Milk
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    bottleslot: 4.5
+    childreset: 1
+    czl: 2
+    skulls: 0.5
+    songs4: 0.5
+  time: 4.5
+  types:
+    lonlon: 3.5
+    selfsynergy: 0
+  weight: -0.25
+both-gerudo-s-fortress-area-skulltulas:
+  difficulty: 6
+  jp: ゲルドの砦の黄金のスタルチュラ2匹
+  name: Both Gerudo's Fortress area Skulltulas
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 100
+    ms: 100
+  skill: 0.25
+  subtypes:
+    hearts4: 0.5
+    hovers: 0.5
+    map: 2
+    skulls: 1.25
+  time: 4.5
+  types:
+    fortress: 2.5
+    selfsynergy: 0
+  weight: 0
+ice-arrows:
+  difficulty: 6
+  jp: 氷の矢
+  name: Ice Arrows
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 1
+    ms: 0
+  skill: 0
+  subtypes:
+    bosskey: 3.5
+    hearts3: 0.5
+    hearts4: 0.25
+    hovers: 0.75
+    incarrows: 100
+    kd: 2
+    map: 3
+    quiver: 4.5
+    skulls: 0.25
+  time: 4.75
+  types:
+    fortress: 3
+    gtg: 1
+    selfsynergy: 0
+  weight: 0.25
+all-3-skulltulas-in-ice-cavern:
+  difficulty: 6
+  jp: 氷の洞窟の黄金のスタルチュラ3匹
+  name: All 3 Skulltulas in Ice Cavern
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 1.5
+    ms: 1
+  skill: 0.25
+  subtypes:
+    compass: 3
+    hearts3: 1
+    hovers: 0.5
+    map: 3
+    skulls: 1.5
+  time: 4.25
+  types:
+    fountain: 2
+    ice: 1.5
+    irons: 0.5
+    selfsynergy: 0
+  weight: 0
+map-compass-in-ice-cavern:
+  difficulty: 6
+  jp: 氷の洞窟のマップとコンパス
+  name: Map & Compass in Ice Cavern
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 0
+    ms: 1.5
+  skill: 0.25
+  subtypes:
+    compass: 3
+    hearts3: 1.5
+    map: 3
+    skulls: 1
+  time: 4.75
+  types:
+    fountain: 2
+    ice: 2
+    selfsynergy: 0
+  weight: -0.1
+iron-boots:
+  difficulty: 6
+  jp: ヘビーブーツ
+  name: Iron Boots
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0
+    ms: 2
+  skill: 0.25
+  subtypes:
+    compass: 3
+    hearts3: 1
+    hearts4: 0.25
+    hovers: 0.25
+    map: 3
+    skulls: 1
+    songs4: 1.5
+  time: 4.75
+  types:
+    endon: -0.5
+    fountain: 2
+    ice: 1.5
+    incboot: 100
+    incirons: 100
+    irons: 2
+    selfsynergy: 0
+  weight: -0.05000000000000002
+defeat-a-white-wolfos:
+  difficulty: 6
+  jp: ホワイトウルフォス撃破
+  name: Defeat a White Wolfos
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0.5
+    ms: 0
+  skill: 0.25
+  subtypes:
+    compass: 3
+    hearts3: 0.5
+    hovers: 0.5
+    map: 3
+    skulls: 0.25
+  time: 4.75
+  types:
+    fortress: 3
+    fountain: 2
+    gtg: 1.5
+    ice: 1.5
+    irons: 1.5
+    selfsynergy: 0
+  weight: 0.39999999999999997
+defeat-queen-gohma:
+  difficulty: 6
+  jp: ゴーマ撃破
+  name: Defeat Queen Gohma
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    cganon: 1.25
+    compass: 2
+    czl: 1
+    hearts3: 3
+    hearts4: 1
+    hovers: 0.5
+    map: 2
+    skulls: 0.25
+  time: 4.25
+  types:
+    deku: 5
+    endon: -0.25
+    incgohma: 100
+    selfsynergy: 0
+  weight: -0.15000000000000002
+beat-the-deku-tree:
+  difficulty: 6
+  jp: デクの樹様の中クリア
+  name: Beat the Deku Tree
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0.25
+  subtypes:
+    cganon: 1.75
+    compass: 2.5
+    czl: 3
+    hearts3: 3
+    hearts4: 1
+    hovers: 0.5
+    map: 2
+    skulls: 0.25
+  time: 4.75
+  types:
+    deku: 5
+    endon: -2
+    incgohma: 100
+    selfsynergy: 0
+  weight: -0.05
+all-4-skulltulas-in-jabu-jabu:
+  difficulty: 6
+  jp: ジャブジャブ様のお腹の黄金のスタルチュラ4匹
+  name: All 4 Skulltulas in Jabu-Jabu
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 1
+    ms: 1
+  skill: 0.25
+  subtypes:
+    compass: 1.5
+    hearts3: 0.5
+    skulls: 2
+  time: 4.5
+  types:
+    fountain: 2
+    jabu: 2
+    selfsynergy: 0
+  weight: -0.20000000000000004
+defeat-phantom-ganon:
+  difficulty: 6
+  jp: ファントムガノン撃破
+  name: Defeat Phantom Ganon
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 100
+    ms: 3
+  skill: 0
+  subtypes:
+    bosskey2: 3
+    compass: 1
+    hearts3: 3
+    hearts4: 1
+    hovers: 0.25
+    incminuet: 100
+    map: 2
+    skulls: 0.75
+    songs5: 1.5
+  time: 4.75
+  types:
+    child2: 2.5
+    endon: -0.5
+    forest: 3
+    incfboss: 100
+    pg: 1.5
+    selfsynergy: 0
+  weight: 0
+plant-bean-in-death-mountain-crater:
+  difficulty: 6
+  jp: デスマウンテン火口の土にマメを植える
+  name: Plant bean in Death Mountain Crater
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0.25
+  subtypes:
+    beans: -1
+    child2: 2
+    childreset: 1.25
+    hearts3: 0.5
+    skulls: 0.5
+  time: 4.5
+  types:
+    childchu: 0
+    dmcchild: 1.25
+    selfsynergy: 0
+  weight: -0.44999999999999996
+map-compass-in-shadow-temple:
+  difficulty: 6
+  jp: 闇の神殿のマップとコンパス
+  name: Map & Compass in Shadow Temple
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0.75
+    ms: 0.5
+  skill: 0
+  subtypes:
+    bosskey2: 3
+    compass: 3
+    map: 3
+    poachers: 0.25
+  time: 4.75
+  types:
+    hovers: 2.5
+    selfsynergy: 0
+    shadow: 1
+  weight: 0
+defeat-bongo-bongo:
+  difficulty: 6
+  jp: ボンゴボンゴ撃破
+  name: Defeat Bongo-Bongo
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 100
+    ms: 3.75
+  skill: 0.5
+  subtypes:
+    bosskey2: 2
+    hearts3: 3
+    hearts4: 1
+    poachers: 0.25
+    skulls: 0.25
+  time: 4.75
+  types:
+    deku: 2
+    hovers: 2.5
+    incshboss: 100
+    legitlacs: 100
+    selfsynergy: 0
+    shadow: 5
+  weight: 0.1
+500-rupees:
+  difficulty: 7
+  jp: 500ルピー
+  name: 500 Rupees
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 2
+    ms: 7
+  skill: 0.25
+  subtypes:
+    botw: -1
+    bulletbag: 100
+    childchu: -2.5
+  time: 5.25
+  types:
+    selfsynergy: -3
+    skulls: 100
+  weight: -0.15000000000000002
+stone-of-agony:
+  difficulty: 7
+  jp: もだえ石
+  name: Stone of Agony
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 100
+    ms: 4
+  skill: 1
+  subtypes:
+    hovers: 1
+  time: 5.5
+  types:
+    forest: 0.5
+    incskulls: 100
+    selfsynergy: 0
+  weight: -0.25
+15-different-skulltulas:
+  difficulty: 7
+  jp: スタルチュラのしるし15個(増殖禁止)
+  name: 15 Different Skulltulas
+  rowtypes:
+    bottle: 1
+    gclw: 0.5
+    hookshot: 2
+    ms: 2
+  skill: 0.5
+  time: 5
+  types:
+    incskulls: 100
+    selfsynergy: -2
+    skulls: 8
+  weight: -0.05
+all-4-lost-woods-area-skulltulas:
+  difficulty: 7
+  jp: 迷いの森エリアの黄金のスタルチュラ4匹
+  name: All 4 Lost Woods area Skulltulas
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 2
+    ms: 100
+  skill: 0
+  subtypes:
+    skulls: 2
+    songs5: 1
+  time: 5.25
+  types:
+    childreset: 1.25
+    forest: 1
+    saria: 0.25
+    selfsynergy: 0
+  weight: -0.3
+3-lake-hylia-skulltulas:
+  difficulty: 7
+  jp: ハイリア湖畔エリアの黄金のスタルチュラ3匹以上
+  name: 3 Lake Hylia Skulltulas
+  rowtypes:
+    bottle: 1.5
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0.25
+  subtypes:
+    bottleslot: 2
+    child2: 2
+    skulls: 1.5
+  time: 5
+  types:
+    inclhskull: 100
+    selfsynergy: 0
+  weight: -0.35000000000000003
+3-unused-keys-in-gerudo-training-grounds:
+  difficulty: 7
+  jp: ゲルドの修練場の未使用の鍵3つ
+  name: 3 Unused Keys in Gerudo Training Grounds
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 1
+    ms: 0
+  skill: 0
+  subtypes:
+    bosskey: 3
+    hearts4: 0.25
+    hovers: 0.75
+    map: 3
+    skulls: 0.25
+  time: 5
+  types:
+    endon: -0.25
+    fortress: 3
+    gtg: 2
+    incgtgkey: 100
+    selfsynergy: 0
+  weight: 0.30000000000000004
+all-5-skulltulas-in-dodongo-s-cavern:
+  difficulty: 7
+  jp: ドドンゴの洞窟の黄金のスタルチュラ5匹
+  name: All 5 Skulltulas in Dodongo's Cavern
+  rowtypes:
+    bottle: 0
+    gclw: 0.5
+    hookshot: 0.25
+    ms: 1.5
+  skill: 0
+  subtypes:
+    compass: 2
+    hearts3: 1
+    hearts4: 1
+    hovers: 0.25
+    map: 1
+    skulls: 2.5
+  time: 5.25
+  types:
+    dc: 4
+    selfsynergy: 0
+  weight: -0.3
+beat-the-forest-temple:
+  difficulty: 7
+  jp: 森の神殿クリア
+  name: Beat the Forest Temple
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 100
+    ms: 3
+  skill: 0
+  subtypes:
+    bosskey2: 2
+    compass: 1
+    hearts3: 3
+    hearts4: 1
+    hovers: 0.25
+    incminuet: 100
+    map: 2
+    skulls: 0.75
+    songs5: 1.5
+  time: 5
+  types:
+    child2: 3
+    endon: -1
+    forest: 3
+    incfboss: 100
+    pg: 2.25
+    selfsynergy: 0
+  weight: 0.15000000000000002
+forest-medallion:
+  difficulty: 7
+  jp: 森のメダル
+  name: Forest Medallion
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 1
+    ms: 3
+  skill: 0
+  subtypes:
+    bosskey2: 2
+    botw: -1
+    childchu: -1
+    compass: 1
+    hearts3: 2
+    hearts4: 1
+    hovers: 0.25
+    map: 3
+    skulls: 0.75
+    songs5: 1.5
+  time: 5.5
+  types:
+    child2: 3
+    endon: -1
+    forest: 4
+    fortress: 2
+    incfboss: 100
+    inclacs: 100
+    pg: 4
+    poachers: 3.5
+    selfsynergy: 0
+  weight: 0.7499999999999999
+water-temple-boss-key:
+  difficulty: 7
+  jp: 水の神殿のボス部屋のカギ
+  name: Water Temple Boss Key
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 1
+    ms: 0
+  skill: 0.25
+  subtypes:
+    bosskey: 4.25
+    hearts3: 0.5
+    hearts4: 0.25
+    hovers: 0.75
+    incarrows: 100
+    map: 3
+    skulls: 0.25
+  time: 5.5
+  types:
+    fortress: 3
+    gtg: 1
+    selfsynergy: 0
+    water: 1
+  weight: 0.30000000000000004
+golden-gauntlets:
+  difficulty: 7
+  jp: 金のグローブ
+  name: Golden Gauntlets
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 2.5
+    ms: 0
+  skill: 0.75
+  subtypes:
+    bombbag: 100
+    bosskey: 2.5
+    hovers: 1
+    skulls: 0.25
+  time: 5.5
+  types:
+    aganon: 3
+    bganon: -2.75
+    cganon: 2.75
+    endon: -0.5
+    incshtrial: 100
+    selfsynergy: 0
+    strength: 100
+  weight: -0.1
+4-compasses:
+  difficulty: 8
+  jp: コンパス4つ
+  name: 4 Compasses
+  rowtypes:
+    bottle: 0
+    gclw: 0.5
+    hookshot: 0.5
+    ms: 0.75
+  skill: 0
+  subtypes:
+    bosskey2: 2
+    ganonchu: -0.5
+    hearts4: 1
+    map: 7
+  time: 6
+  types:
+    botw: 0
+    compass: 7
+    hovers: 2
+    incmc: 100
+    selfsynergy: -3
+  weight: 0.85
+6-hearts:
+  difficulty: 8
+  jp: ハート6つ
+  name: 6 Hearts
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 2
+  skill: 0.25
+  time: 6.25
+  types:
+    hearts3: 7
+    inchearts: 100
+    selfsynergy: -1
+  weight: 0.15000000000000002
+all-8-kakariko-area-skulltulas:
+  difficulty: 8
+  jp: カカリコ村エリアの黄金のスタルチュラ8匹
+  name: All 8 Kakariko area Skulltulas
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 1.5
+    ms: 100
+  skill: 0.25
+  subtypes:
+    jabu: 0.5
+    skulls: 4
+  time: 6.25
+  types:
+    childchu: 0
+    selfsynergy: 0
+  weight: -0.49999999999999994
+all-4-lon-lon-ranch-area-skulltulas:
+  difficulty: 8
+  jp: ロンロン牧場エリアの黄金のスタルチュラ4匹
+  name: All 4 Lon Lon Ranch area Skulltulas
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0.75
+  subtypes:
+    hearts4: 0.25
+    jabu: 2.75
+    skulls: 2
+  time: 5.75
+  types:
+    childchu: 0
+    incranchskulls: 100
+    lonlon: 1.75
+    selfsynergy: 0
+  weight: -0.5
+epona-s-song:
+  difficulty: 8
+  jp: エポナの歌
+  name: Epona's Song
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    bottleslot: 3
+    childreset: 1
+    czl: 2
+    marketgs: 2
+    poachers: -100
+    skulls: 0.5
+    songs4: 1.75
+    songs5: -3
+  time: 6.25
+  types:
+    lonlon: 3.5
+    selfsynergy: 0
+  weight: 0.1
+7-magic-beans:
+  difficulty: 8
+  jp: 魔法のマメ7つ以上
+  name: 7 Magic Beans
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0.25
+  subtypes:
+    child2: 3
+    skulls: 0.25
+  time: 6
+  types:
+    beans: 5.75
+    childreset: 0.5
+    incbeans: 100
+    selfsynergy: 0
+  weight: -0.39999999999999997
+37th-heart-piece-child-fortress-:
+  difficulty: 8
+  jp: 37番目のハートのかけら(子供のゲルドの砦)
+  name: 37th Heart Piece (Child Fortress)
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0.25
+  subtypes:
+    bosskey: 2
+    child2: 2
+    hearts3: 0.75
+    hearts4: 0.5
+    kd: 2
+    map: 2
+    poachers: 2.5
+    songs10: -2.5
+  time: 6
+  types:
+    childreset: 1.25
+    fortress: 2.5
+    selfsynergy: 0
+  weight: 0.2
+open-50-rupee-chest-in-wasteland:
+  difficulty: 8
+  jp: 幻影の砂漠の50ルピーの宝箱を開ける
+  name: Open 50 Rupee chest in Wasteland
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0.25
+  subtypes:
+    bosskey: 2
+    child2: 2
+    childreset: 1.25
+    firearrow: 2
+    kd: 2
+    map: 2
+    skulls: 0.5
+    songs10: -3.5
+  time: 6.25
+  types:
+    dins: 3
+    fortress: 2.5
+    selfsynergy: 0
+    spirit: 1
+  weight: 0.05000000000000002
+4-unused-keys-in-gerudo-training-grounds:
+  difficulty: 8
+  jp: ゲルドの修練場の未使用の鍵4つ
+  name: 4 Unused Keys in Gerudo Training Grounds
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 1
+    ms: 0
+  skill: 0
+  subtypes:
+    bosskey: 3
+    hearts4: 0.25
+    hovers: 0.5
+    map: 3
+    skulls: 0.25
+  time: 5.75
+  types:
+    endon: -0.25
+    fortress: 3
+    gtg: 3
+    incgtgkey: 100
+    longshot: 0.75
+    selfsynergy: 0
+  weight: 0.25
+beat-dodongo-s-cavern:
+  difficulty: 8
+  jp: ドドンゴの洞窟クリア
+  name: Beat Dodongo's Cavern
+  rowtypes:
+    bottle: 0.5
+    gclw: 0.5
+    hookshot: 0
+    ms: 1
+  skill: 0.25
+  subtypes:
+    compass: 2
+    hearts3: 3
+    hearts4: 1
+    map: 2
+    skulls: 0.5
+  time: 5.75
+  types:
+    dc: 3
+    fortress: 2
+    incdodongo: 100
+    kd: 2
+    selfsynergy: 0
+  weight: 0.1
+defeat-big-octo:
+  difficulty: 8
+  jp: 大オクタ撃破
+  name: Defeat Big Octo
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0
+    ms: 2
+  skill: 0.25
+  subtypes:
+    compass: 1.5
+    hearts3: 0.5
+    skulls: 0.75
+  time: 5.75
+  types:
+    fountain: 2
+    jabu: 1.5
+    selfsynergy: 0
+  weight: -0.25
+boomerang:
+  difficulty: 8
+  jp: ブーメラン
+  name: Boomerang
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0
+    ms: 1
+  skill: 0.25
+  subtypes:
+    compass: 2
+    hearts3: 1
+    hearts4: 1
+    map: 2
+    skulls: 1
+  time: 6.25
+  types:
+    fountain: 2
+    incbarinade: 100
+    jabu: 3.75
+    selfsynergy: 0
+  weight: -0.25000000000000006
+4-unused-keys-in-forest-temple:
+  difficulty: 8
+  jp: 森の神殿の未使用の小さな鍵4つ
+  name: 4 Unused Keys in Forest Temple
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 100
+    ms: 3
+  skill: 0
+  subtypes:
+    bosskey2: 3
+    hearts4: 1
+    hovers: 0.75
+    incminuet: 100
+    irons: 0.75
+    map: 3
+    skulls: 1.5
+    songs5: 1.5
+  time: 6.25
+  types:
+    forest: 3
+    incforest: 100
+    selfsynergy: 0
+  weight: -0.05000000000000002
+defeat-morpha:
+  difficulty: 8
+  jp: モーファ撃破
+  name: Defeat Morpha
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 100
+    ms: 3
+  skill: 0.25
+  subtypes:
+    compass: 2.5
+    hearts3: 3
+    hearts4: 1
+    hovers: 1
+    map: 2.5
+    poachers: 0.75
+  time: 5.75
+  types:
+    endon: -0.5
+    incwboss: 100
+    selfsynergy: 0
+    water: 7
+  weight: -0.05
+map-compass-in-water-temple:
+  difficulty: 8
+  jp: 水の神殿のマップとコンパス
+  name: Map & Compass in Water Temple
+  rowtypes:
+    bottle: 0
+    gclw: 0.5
+    hookshot: 0
+    ms: 1.5
+  skill: 0.5
+  subtypes:
+    compass: 3
+    hearts4: 1
+    map: 3
+    poachers: 0.75
+  time: 6
+  types:
+    gtg: 1
+    selfsynergy: 0
+    water: 3
+  weight: -0.1
+beat-the-shadow-temple:
+  difficulty: 8
+  jp: 闇の神殿クリア
+  name: Beat the Shadow Temple
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 100
+    ms: 3.75
+  skill: 0.75
+  subtypes:
+    bosskey2: 2
+    hearts3: 3
+    hearts4: 1
+    poachers: 0.25
+    skulls: 0.25
+  time: 6
+  types:
+    deku: 2
+    hovers: 2.5
+    incshboss: 100
+    legitlacs: 100
+    selfsynergy: 0
+    shadow: 5
+  weight: 0.15000000000000002
+requiem-of-spirit:
+  difficulty: 8
+  jp: 魂のレクイエム
+  name: Requiem of Spirit
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 1.5
+    ms: 0.5
+  skill: 0.5
+  subtypes:
+    bosskey: 2
+    compass: 1
+    hearts4: 0.25
+    hovers: 0.25
+    map: 2
+    poachers: -0.25
+    skulls: 0.75
+    songs5: 2.75
+  time: 6
+  types:
+    endon: -0.25
+    fortress: 2.5
+    selfsynergy: 0
+    spirit: 2.5
+  weight: 0.25
+7-songs:
+  difficulty: 9
+  jp: 歌7つ以上
+  name: 7 Songs
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0.5
+    ms: 100
+  skill: 0
+  subtypes:
+    aganon: 0.25
+    bosskey: 1.5
+    botw: -1
+    child2: 2
+    childchu: -2.5
+    hearts3: 0.5
+    skulls: 0.5
+  time: 6.5
+  types:
+    incsongs: 100
+    poachers: 3.5
+    selfsynergy: 0
+    songs5: 3.25
+  weight: 0.2
+5-maps:
+  difficulty: 9
+  jp: マップ5つ
+  name: 5 Maps
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0.5
+    ms: 1.5
+  skill: 0.25
+  subtypes:
+    bosskey2: 2
+    compass: 9
+    hearts3: 1
+    hearts4: 1
+    skulls: 0.5
+  time: 7
+  types:
+    childchu: 0
+    hovers: 2
+    incmc: 100
+    map: 9
+    selfsynergy: -3
+  weight: 1.6000000000000003
+plant-5-magic-beans:
+  difficulty: 9
+  jp: 魔法の豆を5つ植える
+  name: Plant 5 Magic Beans
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0.5
+  subtypes:
+    child2: 1
+    skulls: 1
+  time: 6.75
+  types:
+    beans: 4.75
+    childreset: 1.25
+    incbeans: 100
+    selfsynergy: 0
+  weight: -0.44999999999999996
+all-4-child-skulltulas-in-zora-s-domain-area:
+  difficulty: 9
+  jp: 子供時代のゾーラの里エリアの黄金のスタルチュラ4匹
+  name: All 4 Child Skulltulas in Zora's Domain Area
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    childreset: 1.25
+    froghp: 1
+    hearts3: 0.25
+    jabu: 0.5
+    skulls: 2
+  time: 6.5
+  types:
+    childchu: 0
+    fountain: 2
+    inczoraskull: 100
+    selfsynergy: 0
+  weight: -0.4
+all-4-gerudo-valley-area-skulltulas:
+  difficulty: 9
+  jp: ゲルドの谷エリアの黄金のスタルチュラ4匹
+  name: All 4 Gerudo Valley area Skulltulas
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 2
+    ms: 100
+  skill: 0.25
+  subtypes:
+    bosskey: 1.5
+    child2: 1.5
+    hearts3: 0.5
+    hearts4: 0.25
+    hovers: 0.25
+    jabu: 0.5
+    map: 1.5
+    skulls: 2
+  time: 7
+  types:
+    childchu: 0
+    fortress: 2
+    selfsynergy: 0
+  weight: -0.45000000000000007
+win-bombchu-bowling-prize:
+  difficulty: 9
+  jp: ボムチュウボウリングの景品を何か1つ入手
+  name: Win Bombchu Bowling Prize
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0.5
+  subtypes:
+    child2: 3
+    compass: 2
+    hearts3: 3
+    hearts4: 1
+    map: 2
+    skulls: 0.5
+  time: 7
+  types:
+    bbprize: 100
+    childchu: 0
+    dc: 3
+    fortress: 1
+    gtg: 1
+    incdodongo: 100
+    kd: 3
+    selfsynergy: 0
+  weight: -0.30000000000000004
+all-5-skulltulas-in-forest-temple:
+  difficulty: 9
+  jp: 森の神殿の黄金のスタルチュラ5匹
+  name: All 5 Skulltulas in Forest Temple
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 100
+    ms: 4
+  skill: 0.25
+  subtypes:
+    bosskey2: 5
+    compass: 1
+    hearts4: 1
+    hovers: 0.75
+    incminuet: 100
+    map: 2.75
+    skulls: 2.5
+    songs5: 1.5
+  time: 6.75
+  types:
+    forest: 3
+    meg: 1
+    selfsynergy: 0
+  weight: -0.10000000000000002
+water-medallion:
+  difficulty: 9
+  jp: 水のメダル
+  name: Water Medallion
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 0.5
+    ms: 3
+  skill: 0
+  subtypes:
+    childchu: -1
+    compass: 2.5
+    hearts3: 3
+    hearts4: 1
+    hovers: 0.5
+    map: 2.5
+  time: 6.5
+  types:
+    fortress: 2
+    inclacs: 100
+    poachers: 3.5
+    selfsynergy: 0
+    water: 6.5
+  weight: 0.39999999999999997
+beat-the-water-temple:
+  difficulty: 9
+  jp: 水の神殿クリア
+  name: Beat the Water Temple
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 100
+    ms: 3
+  skill: 0.25
+  subtypes:
+    compass: 2.5
+    hearts3: 3
+    hearts4: 1
+    hovers: 1
+    map: 2.5
+    poachers: 0.75
+  time: 6.5
+  types:
+    endon: -1
+    incwboss: 100
+    selfsynergy: 0
+    water: 7
+  weight: -0.05
+defeat-dark-link:
+  difficulty: 9
+  jp: ダークリンク撃破
+  name: Defeat Dark Link
+  rowtypes:
+    bottle: 100
+    gclw: 0.5
+    hookshot: 100
+    ms: 7
+  skill: 0.25
+  subtypes:
+    bbprize: -6
+    botw: -1
+    childchu: -2.5
+    compass: 3.5
+    hearts4: 1
+    hovers: 0.5
+    map: 3.5
+    poachers: 0.75
+    skulls: 0.25
+  time: 6.75
+  types:
+    dc: 2
+    inclong: 100
+    longshot: 4
+    selfsynergy: 0
+    water: 3
+  weight: -0.2
+longshot:
+  difficulty: 9
+  jp: ロングフック
+  name: Longshot
+  rowtypes:
+    bottle: 100
+    gclw: 0.5
+    hookshot: 100
+    ms: 7
+  skill: 0
+  subtypes:
+    bbprize: -6
+    botw: -1
+    childchu: -2.5
+    compass: 3.5
+    hearts4: 1
+    hovers: 0.25
+    map: 3.5
+    poachers: 0.75
+    skulls: 0.25
+  time: 6.75
+  types:
+    dc: 2
+    inclong: 100
+    longshot: 5
+    selfsynergy: 0
+    water: 3
+  weight: -0.25
+1-skulltula-from-each-child-dungeon:
+  difficulty: 10
+  jp: 全ての子供ダンジョンからスタルチュラ最低1匹ずつ
+  name: 1 Skulltula from each Child Dungeon
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0.5
+    ms: 3
+  skill: 0.25
+  subtypes:
+    compass: 4
+    hearts3: 1
+    hearts4: 1.5
+    jabu: 2
+    map: 4
+    skulls: 2
+  time: 7.25
+  types:
+    dc: 1
+    deku: 2
+    fountain: 2
+    selfsynergy: 0
+  weight: -0.2
+8-songs:
+  difficulty: 10
+  jp: 歌8つ以上
+  name: 8 Songs
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0.5
+    ms: 100
+  skill: 0
+  subtypes:
+    aganon: 0.25
+    bosskey: 1.5
+    botw: -1
+    childchu: -2.5
+    hearts3: 1.5
+    skulls: 0.5
+  time: 7.75
+  types:
+    incsongs: 100
+    poachers: 3.5
+    selfsynergy: 0
+    songs5: 5.5
+  weight: 0.10000000000000002
+3-boss-keys:
+  difficulty: 10
+  jp: ボス部屋の鍵3つ
+  name: 3 Boss Keys
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 100
+    ms: 100
+  skill: 0.25
+  subtypes:
+    compass: 2
+    hearts3: 2
+    hearts4: 1
+    map: 4
+  time: 7.75
+  types:
+    aganon: 3
+    bganon: -2.75
+    bosskey: 12
+    cganon: 2.75
+    incbk: 100
+    selfsynergy: -2
+  weight: 1.4500000000000002
+3-boots:
+  difficulty: 10
+  jp: 靴3種
+  name: 3 Boots
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0.5
+    ms: 3
+  skill: 0.25
+  subtypes:
+    compass: 3
+    hearts3: 1
+    hearts4: 0.25
+    map: 3
+    poachers: 0.25
+    skulls: 1
+    songs4: 1.5
+  time: 7.25
+  types:
+    endon: -0.5
+    fountain: 2
+    hovers: 2.5
+    ice: 1.5
+    incboot: 100
+    irons: 2
+    selfsynergy: 0
+  weight: 0.2
+keaton-mask:
+  difficulty: 10
+  jp: キータンのお面
+  name: Keaton Mask
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    cganon: 1.75
+    hearts3: 3
+    hearts4: 1
+    marketgs: 2
+    songs4: 1.75
+  time: 7.75
+  types:
+    childchu: 0
+    chuczl: 2
+    czl: 5.75
+    incctrade: 100
+    selfsynergy: 0
+  weight: -0.35
+gerudo-s-card:
+  difficulty: 10
+  jp: ゲルドの会員証
+  name: Gerudo's Card
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0.75
+    ms: 1
+  skill: 0
+  subtypes:
+    beans: 0.25
+    bosskey: 2.5
+    hearts4: 0.25
+    hovers: 0.5
+    map: 2.5
+    marketgs: 4
+    skulls: 0.5
+  time: 7.75
+  types:
+    fortress: 2.5
+    incgcard: 100
+    selfsynergy: 0
+    spirit: 0.5
+  weight: -0.05
+5-unused-keys-in-gerudo-training-grounds:
+  difficulty: 10
+  jp: ゲルドの修練場の未使用の鍵5つ
+  name: 5 Unused Keys in Gerudo Training Grounds
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 1
+    ms: 0
+  skill: 0.5
+  subtypes:
+    bosskey: 3
+    hearts4: 0.25
+    hovers: 1.75
+    map: 3
+    skulls: 0.25
+  time: 7.25
+  types:
+    endon: -0.25
+    fortress: 3
+    gtg: 4
+    incgtgkey: 100
+    longshot: 1.5
+    selfsynergy: 0
+  weight: 0.2
+all-4-skulltulas-in-deku-tree:
+  difficulty: 10
+  jp: デクの樹様の中の黄金のスタルチュラ4匹
+  name: All 4 Skulltulas in Deku Tree
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 1
+    ms: 0
+  skill: 0.25
+  subtypes:
+    compass: 3
+    hearts3: 0.5
+    hearts4: 1
+    hovers: 1
+    map: 2
+    skulls: 2
+  time: 7.25
+  types:
+    deku: 3
+    quiver: 1.75
+    selfsynergy: 0
+  weight: -0.30000000000000004
+map-compass-in-jabu-jabu:
+  difficulty: 10
+  jp: ジャブジャブ様のお腹のマップとコンパス
+  name: Map & Compass in Jabu-Jabu
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0
+    ms: 1
+  skill: 0.25
+  subtypes:
+    compass: 4
+    hearts3: 1
+    hearts4: 1
+    map: 3
+    skulls: 0.75
+  time: 7.75
+  types:
+    fountain: 2
+    incbarinade: 100
+    jabu: 3.75
+    selfsynergy: 0
+  weight: -0.39999999999999997
+all-8-death-mountain-area-skulltulas:
+  difficulty: 10
+  jp: デスマウンテンエリアの黄金のスタルチュラ8匹
+  name: All 8 Death Mountain area Skulltulas
+  rowtypes:
+    bottle: 100
+    gclw: 0.75
+    hookshot: 0.25
+    ms: 100
+  skill: 0.5
+  subtypes:
+    child2: 3
+    childreset: 1.25
+    hearts3: 0.5
+    skulls: 4
+  time: 7.5
+  types:
+    childchu: 0
+    dmc: 0.25
+    dmcchild: 1.25
+    selfsynergy: 0
+  weight: -1.05
+get-bombchu-chest-in-spirit-temple:
+  difficulty: 10
+  jp: 魂の神殿のボムチュウ取得
+  name: Get Bombchu chest in Spirit Temple
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 2
+    ms: 1
+  skill: 0.5
+  subtypes:
+    bosskey: 2
+    compass: 1
+    hearts4: 0.25
+    hovers: 1
+    map: 2
+    poachers: 0.25
+    skulls: 0.75
+  time: 7.25
+  types:
+    fortress: 2.5
+    selfsynergy: 0
+    spirit: 5
+  weight: 0.49999999999999994
+open-the-final-door-of-fire-trial:
+  difficulty: 10
+  jp: 炎の結界の最後の部屋に到達
+  name: Open the Final Door of Fire Trial
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0.5
+    ms: 3
+  skill: 0.25
+  subtypes:
+    bosskey: 3.5
+    gtunic: 0.25
+    hearts4: 1.5
+    poachers: 0.25
+    skulls: 0.25
+  time: 7.5
+  types:
+    aganon: 3
+    endon: -0.5
+    hovers: 2.5
+    selfsynergy: 0
+  weight: -0.05
+open-the-final-door-of-light-trial:
+  difficulty: 10
+  jp: 光の結界の最後の部屋に到達
+  name: Open the Final Door of Light Trial
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 100
+    ms: 2.25
+  skill: 0.25
+  subtypes:
+    bosskey: 2.5
+    botw: -1
+    childchu: -2.5
+    chuczl: 2
+    hearts3: 1
+    skulls: 0.25
+  time: 7.5
+  types:
+    aganon: 3
+    bganon: -1.75
+    bothzl: -3.5
+    cganon: 1.75
+    czl: 3.5
+    endon: -0.5
+    poachers: 3.5
+    selfsynergy: 0
+  weight: -0.05
+20-different-skulltulas:
+  difficulty: 11
+  jp: スタルチュラのしるし20個(増殖禁止)
+  name: 20 Different Skulltulas
+  rowtypes:
+    bottle: 1
+    gclw: 1
+    hookshot: 100
+    ms: 3
+  skill: 0.5
+  subtypes:
+    child2: 0.5
+    childreset: 0.5
+  time: 8.5
+  types:
+    incskulls: 100
+    selfsynergy: -2
+    skulls: 8
+  weight: -0.6
+open-2-boss-key-doors:
+  difficulty: 11
+  jp: スカギの扉を2つ開ける
+  name: Open 2 Boss Key Doors
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 100
+    ms: 5
+  skill: 0
+  subtypes:
+    hearts3: 2.25
+    hearts4: 0.25
+    songs5: 1.25
+  time: 8
+  types:
+    aganon: 3
+    bganon: -2.75
+    bossdoor: 5
+    bosskey: 6.75
+    cganon: 2.75
+    gtg: 0.5
+    incbkdoor: 100
+    selfsynergy: -2
+  weight: 1.8000000000000005
+3-swords-3-boots:
+  difficulty: 11
+  jp: 剣3種、靴3種
+  name: 3 Swords & 3 Boots
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0.5
+    ms: 100
+  skill: 0.25
+  subtypes:
+    bulletbag: -3
+    childchu: -1
+    compass: 3
+    hearts3: 1
+    hearts4: 0.25
+    map: 3
+    poachers: 0.25
+    skulls: 1
+    songs4: 1.5
+  time: 8.5
+  types:
+    endon: -0.5
+    fountain: 2
+    hovers: 2.5
+    ice: 1.5
+    incboot: 100
+    incsword: 100
+    irons: 2
+    selfsynergy: 0
+    swords: 3
+  weight: 0
+7-hearts-no-duping-:
+  difficulty: 11
+  jp: ハート7つ
+  name: 7 Hearts (no duping)
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0.5
+    ms: 4
+  skill: 0.5
+  time: 8.5
+  types:
+    hearts3: 10
+    hearts4: 0.5
+    inchearts: 100
+    selfsynergy: -3
+  weight: -0.15000000000000002
+fire-arrows:
+  difficulty: 11
+  jp: 炎の矢
+  name: Fire Arrows
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 0.5
+    ms: 100
+  skill: 0.5
+  subtypes:
+    bosskey: 2
+    botw: -1
+    childchu: -2.5
+    incarrows: 100
+    map: 3
+    poachers: 1
+    skulls: 0.25
+  time: 8.25
+  types:
+    firearrow: 8
+    fortress: 3
+    gtg: 1
+    quiver: 4.5
+    selfsynergy: 0
+    water: 1.5
+  weight: 0.2
+defeat-barinade:
+  difficulty: 11
+  jp: バリネード撃破
+  name: Defeat Barinade
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0
+    ms: 2
+  skill: 0.25
+  subtypes:
+    compass: 2
+    hearts3: 4
+    hearts4: 1
+    map: 2
+    skulls: 1.25
+  time: 8.5
+  types:
+    endon: -0.25
+    fountain: 2
+    incbarinade: 100
+    jabu: 6.25
+    selfsynergy: 0
+  weight: -0.65
+beat-jabu-jabu-s-belly:
+  difficulty: 11
+  jp: ジャブジャブ様のお腹クリア
+  name: Beat Jabu-Jabu's Belly
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0
+    ms: 3
+  skill: 0.25
+  subtypes:
+    compass: 2
+    hearts3: 4
+    hearts4: 1
+    map: 2
+    skulls: 1.25
+  time: 8.25
+  types:
+    endon: -1.25
+    fountain: 2
+    incbarinade: 100
+    jabu: 5.75
+    selfsynergy: 0
+  weight: -0.55
+fairy-bow:
+  difficulty: 11
+  jp: 妖精の弓
+  name: Fairy Bow
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 100
+    ms: 4
+  skill: 0.5
+  subtypes:
+    bosskey: 2
+    bosskey2: 6
+    compass: 3
+    hearts3: 0.25
+    hearts4: 1
+    incminuet: 100
+    map: 2.5
+    quiver: 4.5
+    skulls: 1
+    songs5: 1.5
+  time: 8
+  types:
+    forest: 3
+    hovers: 2.5
+    incforest: 100
+    meg: 4.25
+    selfsynergy: 0
+  weight: 0.1
+shadow-temple-boss-key:
+  difficulty: 11
+  jp: 闇の神殿のボス部屋の鍵
+  name: Shadow Temple Boss Key
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 1
+    ms: 2.25
+  skill: 0.25
+  subtypes:
+    aganon: 0.25
+    bossdoor: 1.5
+    bosskey: 4.25
+    bosskey2: 5.75
+    botw: -1
+    childchu: -2.5
+    chuczl: 2
+    compass: 1
+    hearts3: 2.5
+    skulls: 0.25
+  time: 8.5
+  types:
+    bothzl: -3.5
+    czl: 3.5
+    hovers: 1.5
+    poachers: 3.5
+    selfsynergy: 0
+    shadow: 6
+  weight: 0.25
+bronze-gauntlets:
+  difficulty: 11
+  jp: 銅のグローブ
+  name: Bronze Gauntlets
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 2.5
+    ms: 100
+  skill: 0.75
+  subtypes:
+    bombbag: 100
+    bulletbag: 100
+    hovers: 1.5
+    skulls: 0.5
+  time: 8.5
+  types:
+    aganon: 3
+    bganon: -2.75
+    cganon: 2.75
+    endon: -0.5
+    incshtrial: 100
+    selfsynergy: 0
+    strength: 100
+  weight: -0.4
+3-tunics-3-boots:
+  difficulty: 12
+  jp: 服3種、靴3種
+  name: 3 Tunics & 3 Boots
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0.5
+    ms: 100
+  skill: 0.25
+  subtypes:
+    bosskey: 0.25
+    compass: 3
+    dmc: 0.25
+    hearts3: 1
+    hearts4: 0.25
+    map: 3
+    poachers: 0.25
+    skulls: 1
+    songs4: 1.5
+  time: 8.75
+  types:
+    endon: -0.5
+    fountain: 2
+    gtunic: 1
+    hovers: 2.5
+    ice: 1.5
+    incboot: 100
+    inctunic: 100
+    irons: 2
+    selfsynergy: 0
+  weight: 0.1
+5-compasses:
+  difficulty: 12
+  jp: コンパス5つ
+  name: 5 Compasses
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0.5
+    ms: 2
+  skill: 0.25
+  subtypes:
+    bosskey2: 2
+    ganonchu: -0.5
+    hearts3: 1.5
+    hearts4: 1
+    map: 10
+    skulls: 1
+  time: 9.25
+  types:
+    botw: 0
+    compass: 10
+    hovers: 2
+    incmc: 100
+    selfsynergy: -3
+  weight: 0.8
+double-magic:
+  difficulty: 12
+  jp: 魔力2倍
+  name: Double Magic
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0.5
+    ms: 2.25
+  skill: 0
+  subtypes:
+    aganon: 0.25
+    bosskey: 1
+    botw: -1
+    childchu: -2.5
+    chuczl: 2
+    gtunic: 0.25
+    hearts3: 1.5
+    songs5: 1
+  time: 8.75
+  types:
+    bothzl: -3.5
+    czl: 3.5
+    dmc: 1
+    magic: 1.75
+    poachers: 3.5
+    selfsynergy: 0
+  weight: -0.15000000000000002
+double-defense:
+  difficulty: 12
+  jp: 防御力2倍
+  name: Double Defense
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0.5
+    ms: 100
+  skill: 0
+  subtypes:
+    aganon: 0.5
+    botw: -1
+    childchu: -2.5
+    chuczl: 2
+    gtunic: 0.25
+    hearts3: 1.5
+    skulls: 0.25
+  time: 9.25
+  types:
+    bothzl: -3.5
+    czl: 3.5
+    dmc: 1
+    magic: 1.75
+    poachers: 3.5
+    selfsynergy: 0
+  weight: -0.25
+6-different-unused-keys-in-gerudo-training-grounds:
+  difficulty: 12
+  jp: ゲルドの修練場の未使用の鍵6つ
+  name: 6 Different Unused Keys in Gerudo Training Grounds
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 1
+    ms: 0
+  skill: 0.25
+  subtypes:
+    bosskey: 3
+    hearts4: 0.25
+    hovers: 0.75
+    map: 3
+    skulls: 0.25
+  time: 9
+  types:
+    endon: -0.25
+    fortress: 3
+    gtg: 5
+    incgtgkey: 100
+    quiver: 0.75
+    selfsynergy: 0
+  weight: 0.05
+defeat-amy-green-poe-:
+  difficulty: 12
+  jp: エイミー撃破(緑のポウ)ｴ
+  name: Defeat Amy (Green Poe)
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 100
+    ms: 0
+  skill: 0
+  subtypes:
+    bosskey: 2
+    bosskey2: 5
+    botw: -1
+    childchu: -2.5
+    compass: 2
+    hearts4: 1
+    hovers: 1
+    incminuet: 100
+    map: 4
+    skulls: 0.5
+    songs5: 1.5
+  time: 9.25
+  types:
+    forest: 3
+    fortress: 3
+    gtg: 1
+    incforest: 100
+    meg: 4.25
+    quiver: 4.5
+    selfsynergy: 0
+  weight: 0.25
+map-compass-in-fire-temple:
+  difficulty: 12
+  jp: 炎の神殿のマップとコンパス
+  name: Map & Compass in Fire Temple
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 0.25
+    ms: 2.75
+  skill: 0
+  subtypes:
+    bosskey: 2
+    compass: 4
+    gtunic: 0.75
+    hearts3: 0.5
+    hovers: 0.25
+    map: 3
+    skulls: 0.25
+    songs5: 1.25
+  time: 8.75
+  types:
+    dmc: 1
+    fire: 5
+    selfsynergy: 0
+  weight: -0.2
+desert-colossus-hp:
+  difficulty: 12
+  jp: 巨大邪神像のハートのかけら
+  name: Desert Colossus HP
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0.75
+  subtypes:
+    bosskey: 3
+    compass: 1
+    hearts3: 0.75
+    hearts4: 0.5
+    map: 3
+    skulls: 0.75
+    songs5: 0.75
+  time: 8.75
+  types:
+    fortress: 2.5
+    selfsynergy: 0
+    spirit: 3
+  weight: 0.25
+defeat-nabooru-knuckle:
+  difficulty: 12
+  jp: アイアンナック(ナボール)撃破
+  name: Defeat Nabooru-Knuckle
+  rowtypes:
+    bottle: 0.5
+    gclw: 0
+    hookshot: 100
+    ms: 100
+  skill: 1
+  subtypes:
+    bosskey: 6
+    bosskey2: 6
+    compass: 1
+    hearts4: 0.25
+    hovers: 1
+    map: 3
+    poachers: 0.25
+    skulls: 0.5
+    songs5: 0.75
+  time: 9
+  types:
+    endon: -0.5
+    fortress: 2.5
+    incspboss: 100
+    selfsynergy: 0
+    spirit: 8
+  weight: 0.5499999999999999
+open-the-final-door-of-forest-trial:
+  difficulty: 12
+  jp: 森の結界の最後の部屋に到達
+  name: Open the Final Door of Forest Trial
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0
+    ms: 0
+  skill: 1
+  subtypes:
+    bosskey: 1
+    child2: 1
+    firearrow: 4
+    hearts3: 3
+    hearts4: 1
+    magic: 1.75
+    marketgs: 2
+  time: 8.75
+  types:
+    aganon: 3
+    bganon: -2.75
+    cganon: 2.75
+    childchu: 0
+    childreset: 1.25
+    deku: 5
+    dins: 3
+    dmcchild: 0.75
+    endon: -0.5
+    ganonchu: 0
+    selfsynergy: 0
+  weight: -1.4000000000000004
+all-8-zora-s-domain-area-skulltulas:
+  difficulty: 13
+  jp: ゾーラの里エリアの黄金のスタルチュラ8匹
+  name: All 8 Zora's Domain area Skulltulas
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 100
+    ms: 100
+  skill: 0.5
+  subtypes:
+    childreset: 1.25
+    compass: 2
+    froghp: 1
+    hearts3: 1
+    jabu: 0.5
+    map: 2
+    skulls: 4
+  time: 9.75
+  types:
+    childchu: 0
+    fountain: 2
+    inczoraskull: 100
+    selfsynergy: 0
+  weight: -1.7000000000000004
+all-4-wasteland-colossus-area-skulltulas:
+  difficulty: 13
+  jp: 幻影の砂漠・巨大邪神像エリアの黄金のスタルチュラ4匹
+  name: All 4 Wasteland/ Colossus area Skulltulas
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 100
+    ms: 100
+  skill: 0.5
+  subtypes:
+    bosskey: 2
+    bosskey2: 4
+    child2: 1
+    childreset: 1.25
+    hearts4: 0.25
+    map: 1.5
+    skulls: 2
+    songs10: -5
+    songs5: 3
+  time: 9.75
+  types:
+    fortress: 2.5
+    selfsynergy: 0
+    spirit: 2.5
+  weight: 0.15000000000000002
+7-different-unused-keys-in-gerudo-training-grounds:
+  difficulty: 13
+  jp: ゲルドの修練場の未使用の鍵7つ(増殖禁止)
+  name: 7 Different Unused Keys in Gerudo Training Grounds
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 100
+    ms: 1
+  skill: 0.25
+  subtypes:
+    bosskey: 3
+    hearts4: 0.25
+    hovers: 0.75
+    map: 3
+    skulls: 0.5
+  time: 9.5
+  types:
+    endon: -0.5
+    fortress: 3
+    gtg: 3
+    incgtgkey: 100
+    quiver: 2.75
+    selfsynergy: 0
+  weight: 0.2
+forest-temple-boss-key:
+  difficulty: 13
+  jp: 森の神殿のボス部屋の鍵
+  name: Forest Temple Boss Key
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 100
+    ms: 3
+  skill: 0.25
+  subtypes:
+    bosskey: 4.25
+    bosskey2: 5.75
+    compass: 3.5
+    hearts4: 1
+    hovers: 1.25
+    incminuet: 100
+    lightarrow: 1
+    map: 2.5
+    quiver: 4.5
+    skulls: 1
+    songs5: 1.5
+  time: 9.75
+  types:
+    claimcheck: 10
+    forest: 4
+    fortress: 1
+    gtg: 1
+    incforest: 100
+    meg: 4.25
+    selfsynergy: 0
+  weight: 0.2
+obtain-all-5-small-keys-in-forest-temple:
+  difficulty: 13
+  jp: 森の神殿の小さな鍵の宝箱を5つ全て開ける
+  name: Obtain all 5 Small Keys in Forest Temple
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 100
+    ms: 4
+  skill: 0.25
+  subtypes:
+    bosskey: 2
+    bosskey2: 6
+    compass: 4
+    hearts4: 1
+    hovers: 1.25
+    incminuet: 100
+    map: 3
+    quiver: 4.5
+    skulls: 1
+    songs5: 1.5
+  time: 9.75
+  types:
+    forest: 3
+    incforest: 100
+    meg: 5
+    selfsynergy: 0
+  weight: -0.25
+map-compass-in-forest-temple:
+  difficulty: 13
+  jp: 森の神殿のマップとコンパス
+  name: Map & Compass in Forest Temple
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 100
+    ms: 4
+  skill: 0.5
+  subtypes:
+    bosskey: 2
+    bosskey2: 6
+    compass: 4
+    hearts4: 1
+    incminuet: 100
+    map: 3
+    quiver: 4.5
+    skulls: 1
+    songs5: 1.5
+  time: 10
+  types:
+    forest: 3
+    hovers: 2.5
+    incforest: 100
+    meg: 5
+    selfsynergy: 0
+  weight: 0
+obtain-all-8-small-keys-in-fire-temple:
+  difficulty: 13
+  jp: 炎の神殿の小さな鍵の宝箱を8つ全て開ける
+  name: Obtain all 8 Small Keys in Fire Temple
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 100
+    ms: 5
+  skill: 0.25
+  subtypes:
+    bosskey: 2
+    compass: 4
+    gtunic: 0.75
+    hearts3: 0.5
+    hovers: 0.25
+    map: 2
+    skulls: 0.5
+    songs5: 1.25
+  time: 10
+  types:
+    dmc: 1
+    fire: 5
+    selfsynergy: 0
+  weight: -0.1
+megaton-hammer:
+  difficulty: 13
+  jp: メガトンハンマー
+  name: Megaton Hammer
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 0.25
+    ms: 2.5
+  skill: 0.25
+  subtypes:
+    bosskey: 2
+    compass: 4
+    gtunic: 0.75
+    hearts3: 1.5
+    hearts4: 1
+    hovers: 0.25
+    incgorons: 100
+    map: 2
+    skulls: 0.25
+    songs5: 1.25
+  time: 10
+  types:
+    dmc: 1
+    fire: 7
+    selfsynergy: 0
+  weight: -0.1
+3-skulltulas-in-water-temple:
+  difficulty: 13
+  jp: 水の神殿の黄金のスタルチュラ3匹以上
+  name: 3 Skulltulas in Water Temple
+  rowtypes:
+    bottle: 100
+    gclw: 0.5
+    hookshot: 100
+    ms: 7
+  skill: 0.5
+  subtypes:
+    aganon: 0.25
+    bbprize: -4
+    botw: -1
+    childchu: -2.5
+    compass: 2.5
+    hearts3: 1.5
+    hearts4: 2.5
+    hovers: 0.5
+    irons: 2
+    map: 2.5
+    skulls: 1.5
+  time: 9.5
+  types:
+    dc: 2
+    ice: 1.5
+    incwskull: 100
+    longshot: 2
+    selfsynergy: 0
+    water: 3
+  weight: -0.4
+4-skulltulas-in-shadow-temple:
+  difficulty: 13
+  jp: 闇の神殿の黄金のスタルチュラ4匹以上
+  name: 4 Skulltulas in Shadow Temple
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 100
+    ms: 6
+  skill: 0.5
+  subtypes:
+    bosskey2: 2
+    compass: 1
+    poachers: 0.25
+    skulls: 2
+  time: 9.5
+  types:
+    hovers: 2.5
+    selfsynergy: 0
+    shadow: 6
+  weight: -0.1
+mirror-shield:
+  difficulty: 13
+  jp: ミラーシールド
+  name: Mirror Shield
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 100
+    ms: 2.25
+  skill: 0.75
+  subtypes:
+    bosskey: 3
+    bosskey2: 5
+    compass: 1
+    hearts3: 0.5
+    hearts4: 0.5
+    map: 3
+    poachers: 0.25
+    skulls: 0.75
+    songs5: 0.75
+  time: 10
+  types:
+    fortress: 2.5
+    gtg: 1.5
+    hovers: 2.5
+    incmirror: 100
+    incshield: 100
+    incspboss: 100
+    selfsynergy: 0
+    spirit: 3.5
+  weight: 1.1500000000000001
+silver-gauntlets:
+  difficulty: 13
+  jp: 銀のグローブ
+  name: Silver Gauntlets
+  rowtypes:
+    bottle: 0.5
+    gclw: 0
+    hookshot: 100
+    ms: 1.5
+  skill: 0.75
+  subtypes:
+    bombbag: 100
+    bosskey: 3
+    bosskey2: 4.5
+    compass: 1
+    hearts3: 0.5
+    hearts4: 0.25
+    map: 3
+    poachers: 0.25
+    skulls: 0.75
+    songs5: 0.75
+  time: 9.75
+  types:
+    endon: -1
+    fortress: 3
+    hovers: 2.5
+    selfsynergy: 0
+    spirit: 3.25
+    strength: 100
+  weight: 0.9500000000000002
+9-songs:
+  difficulty: 14
+  jp: 歌9つ以上
+  name: 9 Songs
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0.5
+    ms: 100
+  skill: 0
+  subtypes:
+    aganon: 0.25
+    bosskey: 1.5
+    botw: -1
+    childchu: -2.5
+    hearts3: 1.5
+    skulls: 0.75
+  time: 10.75
+  types:
+    incsongs: 100
+    poachers: 3.5
+    selfsynergy: 0
+    songs5: 8.75
+  weight: -0.2
+open-5-gold-rupee-chests:
+  difficulty: 14
+  jp: 金ルピーの宝箱を5つ開ける
+  name: Open 5 Gold Rupee Chests
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 100
+    ms: 10
+  skill: 0
+  subtypes:
+    bosskey: 3
+    child2: 1.25
+    ganonchu: -0.5
+    hearts4: 0.25
+    hovers: 1
+    map: 3
+    skulls: 0.25
+    songs5: 1
+    strength: 1.5
+  time: 10.5
+  types:
+    botw: 0
+    fire: 2
+    fortress: 2.5
+    goldrupee: 15
+    gtg: 3
+    incgolds: 100
+    selfsynergy: -2
+  weight: -0.49999999999999994
+3-shields:
+  difficulty: 14
+  jp: 盾3種
+  name: 3 Shields
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 100
+    ms: 2.5
+  skill: 0.75
+  subtypes:
+    bosskey: 3
+    bosskey2: 5
+    compass: 1
+    hearts3: 0.5
+    hearts4: 0.5
+    map: 3
+    poachers: 0.25
+    songs5: 0.75
+  time: 10.5
+  types:
+    fortress: 2.5
+    gtg: 1.5
+    hovers: 2.5
+    incshield: 100
+    selfsynergy: 0
+    spirit: 3.5
+  weight: 1.0000000000000002
+6-maps:
+  difficulty: 14
+  jp: マップ6つ
+  name: 6 Maps
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0.5
+    ms: 2.5
+  skill: 0.5
+  subtypes:
+    bosskey2: 2
+    claimcheck: 3
+    compass: 15
+    ganonchu: -1
+    hearts3: 1
+    hearts4: 1.5
+    poachers: 0.75
+    skulls: 0.75
+    songs5: 1.5
+  time: 10.5
+  types:
+    childchu: 0
+    hovers: 2.5
+    incmc: 100
+    map: 15
+    selfsynergy: -3
+  weight: 1.5000000000000004
+light-arrows:
+  difficulty: 14
+  jp: 光の矢
+  name: Light Arrows
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0.5
+    ms: 100
+  skill: 0
+  subtypes:
+    aganon: 1
+    bosskey: 3
+    bosskey2: 6
+    botw: -1
+    childchu: -2.5
+    hearts3: 1.5
+    hearts4: 0.75
+    hovers: 0.25
+    incarrows: 100
+    map: 3
+    quiver: 4.5
+    skulls: 0.25
+  time: 10.5
+  types:
+    endon: -0.75
+    fortress: 2
+    inclacs: 100
+    legitlacs: 100
+    lightarrow: 5
+    poachers: 3.5
+    selfsynergy: 0
+  weight: 0.15000000000000002
+farore-s-wind:
+  difficulty: 14
+  jp: フロルの風
+  name: Farore's Wind
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0.5
+    ms: 2.25
+  skill: 0
+  subtypes:
+    aganon: 0.25
+    botw: -1
+    childchu: -2.5
+    chuczl: 2
+    compass: 2
+    gtunic: 0.25
+    hearts3: 2.5
+    incfairy: 100
+    map: 2
+    skulls: 0.5
+  time: 10.5
+  types:
+    bothzl: -3.5
+    czl: 3.5
+    dmc: 1
+    fountain: 2
+    magic: 1.75
+    poachers: 3.5
+    selfsynergy: 0
+  weight: -0.1
+saria-s-song:
+  difficulty: 14
+  jp: サリアの歌
+  name: Saria's Song
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    cganon: 1.75
+    child2: 2.5
+    hearts3: 3
+    hearts4: 1
+    marketgs: 2
+    skulls: 0.25
+    songs4: 3
+    songs5: -3
+  time: 10.5
+  types:
+    childchu: 0
+    childreset: 1.25
+    chuczl: 2
+    czl: 5.75
+    incsaria: 100
+    saria: 2.75
+    selfsynergy: 0
+  weight: -1.2500000000000002
+5-zora-area-hps:
+  difficulty: 14
+  jp: ゾーラエリアのハートのかけら5つ以上
+  name: 5 Zora area HPs
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0.5
+    ms: 100
+  skill: 0.5
+  subtypes:
+    beans: 0.5
+    child2: 2
+    compass: 3
+    froghp: 2
+    hearts3: 3
+    hearts4: 0.25
+    hovers: 0.75
+    incirons: 100
+    map: 3
+  time: 10.5
+  types:
+    fountain: 2
+    ice: 1.5
+    irons: 2
+    selfsynergy: 0
+  weight: -0.6500000000000002
+8-different-unused-keys-in-gerudo-training-grounds:
+  difficulty: 14
+  jp: ゲルドの修練場の未使用の鍵8つ(増殖禁止)
+  name: 8 Different Unused Keys in Gerudo Training Grounds
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 100
+    ms: 7
+  skill: 0.25
+  subtypes:
+    bosskey: 3
+    botw: -1
+    bulletbag: 100
+    childchu: -2.5
+    hearts4: 0.25
+    hovers: 0.75
+    map: 3
+    skulls: 0.25
+  time: 10.25
+  types:
+    endon: -0.25
+    fortress: 3
+    gtg: 5
+    incgtgkey: 100
+    quiver: 4.5
+    selfsynergy: 0
+  weight: 0.05
+frog-s-hp:
+  difficulty: 15
+  jp: カエルのハートのかけら(嵐の歌)
+  name: Frog's HP
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 100
+    ms: 100
+  skill: 0.25
+  subtypes:
+    bosskey2: 3
+    compass: 1
+    hearts3: 4
+    hearts4: 1.25
+    incminuet: 100
+    map: 2
+    poachers: 0.25
+    skulls: 1
+    songs4: 1.5
+    songs5: 2
+  time: 11.5
+  types:
+    child2: 5
+    endon: 0
+    forest: 3
+    froghp: 3
+    hovers: 2.5
+    incfboss: 100
+    pg: 2.25
+    selfsynergy: 0
+  weight: -0.44999999999999996
+defeat-both-flare-dancers:
+  difficulty: 15
+  jp: フレアダンサー2体撃破
+  name: Defeat both Flare Dancers
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 0.25
+    ms: 3.25
+  skill: 0.25
+  subtypes:
+    bosskey: 2
+    compass: 4
+    gtunic: 0.75
+    hovers: 0.25
+    incgorons: 100
+    map: 2.5
+    skulls: 0.5
+    songs5: 1.25
+  time: 11.5
+  types:
+    dmc: 1
+    fire: 8
+    incflare: 100
+    selfsynergy: 0
+  weight: -1.35
+blue-gauntlets:
+  difficulty: 15
+  jp: 青のグローブ
+  name: Blue Gauntlets
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 100
+    ms: 100
+  skill: 0.5
+  subtypes:
+    bombbag: 100
+    bosskey: 3
+    bosskey2: 5
+    bulletbag: 100
+    compass: 1
+    hearts3: 0.25
+    hearts4: 0.5
+    map: 3
+    poachers: 0.25
+    skulls: 0.75
+    songs10: -0.5
+    songs5: 0.75
+  time: 11.25
+  types:
+    fortress: 2.5
+    gtg: 1.5
+    hovers: 2.5
+    selfsynergy: 0
+    spirit: 3.25
+    strength: 100
+  weight: 0.9
+spirit-temple-boss-key:
+  difficulty: 15
+  jp: 魂の神殿のボス部屋の鍵
+  name: Spirit Temple Boss Key
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0
+    ms: 5.75
+  skill: 0
+  subtypes:
+    aganon: 1
+    bosskey: 6
+    bosskey2: 5.75
+    botw: -1
+    childchu: -2.5
+    chuczl: 2
+    compass: 1
+    hearts3: 1
+    hearts4: 0.75
+    hovers: 0.25
+    map: 4.5
+    skulls: 0.25
+  time: 11.5
+  types:
+    bothzl: -3.5
+    czl: 3.5
+    fortress: 3
+    inclacs: 100
+    legitlacs: 100
+    lightarrow: 5
+    poachers: 3.5
+    selfsynergy: 0
+    spirit: 5
+  weight: 0.8999999999999999
+3-swords-3-shields:
+  difficulty: 16
+  jp: 剣3種、盾3種
+  name: 3 Swords & 3 Shields
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 100
+    ms: 100
+  skill: 0.75
+  subtypes:
+    bosskey: 3
+    bosskey2: 5
+    bulletbag: -3
+    childchu: -1
+    compass: 1
+    hearts3: 0.5
+    hearts4: 0.5
+    map: 3
+    poachers: 0.25
+    skulls: 0.75
+    songs5: 0.75
+  time: 11.75
+  types:
+    fortress: 2.5
+    gtg: 1.5
+    hovers: 2.5
+    incshield: 100
+    incsword: 100
+    selfsynergy: 0
+    spirit: 3.5
+    swords: 3
+  weight: 1.2500000000000002
+nayru-s-love:
+  difficulty: 16
+  jp: ネールの愛
+  name: Nayru's Love
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 2.5
+    ms: 3.25
+  skill: 0.5
+  subtypes:
+    aganon: 0.25
+    bosskey: 2
+    bottleslot: 4
+    botw: -1
+    childchu: -2.5
+    chuczl: 2
+    compass: 2.5
+    hearts3: 1
+    hearts4: 0.25
+    hovers: 0.25
+    incfairy: 100
+    map: 2
+    skulls: 0.5
+  time: 11.75
+  types:
+    bothzl: -3.5
+    czl: 3.5
+    dmc: 1
+    endon: -0.25
+    fortress: 2.5
+    magic: 1.75
+    poachers: 3.5
+    selfsynergy: 0
+    spirit: 2
+  weight: 0.4500000000000002
+all-5-lake-hylia-skulltulas:
+  difficulty: 16
+  jp: ハイリア湖畔エリアの黄金のスタルチュラ5匹
+  name: All 5 Lake Hylia Skulltulas
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 100
+    ms: 100
+  skill: 0.5
+  subtypes:
+    bottleslot: 2
+    child2: 3
+    compass: 4
+    hearts3: 1
+    hearts4: 0.25
+    hovers: 0.25
+    incirons: 100
+    map: 4
+    skulls: 2.5
+  time: 12
+  types:
+    fountain: 2
+    ice: 1.5
+    inclhskull: 100
+    irons: 2
+    selfsynergy: 0
+    water: 1
+  weight: -0.9
+defeat-volvagia:
+  difficulty: 16
+  jp: ヴァルバジア撃破
+  name: Defeat Volvagia
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0.25
+    ms: 4.25
+  skill: 0.25
+  subtypes:
+    aganon: 1
+    bosskey: 2
+    child2: 1.5
+    compass: 4
+    forest: 1
+    gtunic: 0.5
+    hearts3: 3.5
+    hearts4: 2
+    hovers: 0.25
+    lightarrow: 2.75
+    map: 2.5
+    pg: 1
+    skulls: 0.25
+    songs5: 1.25
+  time: 12
+  types:
+    dmc: 1
+    endon: -0.5
+    fire: 9
+    incvolvagia: 100
+    selfsynergy: 0
+  weight: -0.05000000000000002
+all-5-skulltulas-in-fire-temple:
+  difficulty: 16
+  jp: 炎の神殿の黄金のスタルチュラ5匹
+  name: All 5 Skulltulas in Fire Temple
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 100
+    ms: 11
+  skill: 0.5
+  subtypes:
+    bosskey: 2
+    compass: 2
+    gtunic: 0.75
+    hearts3: 0.5
+    hearts4: 1
+    hovers: 0.25
+    longshot: 1
+    map: 3
+    skulls: 2.5
+    songs5: 1.25
+  time: 12
+  types:
+    dmc: 1
+    fire: 4.75
+    selfsynergy: 0
+  weight: -0.75
+3-shields-3-tunics:
+  difficulty: 17
+  jp: 盾3種、服3種
+  name: 3 Shields & 3 Tunics
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 100
+    ms: 100
+  skill: 0.75
+  subtypes:
+    bosskey: 3.25
+    bosskey2: 5
+    compass: 2.5
+    dmc: 0.25
+    hearts3: 0.5
+    hearts4: 0.5
+    map: 4.5
+    poachers: 0.25
+    skulls: 1
+    songs5: 0.75
+  time: 13
+  types:
+    fortress: 2.5
+    fountain: 1.5
+    gtg: 1.5
+    gtunic: 1
+    hovers: 2.5
+    incshield: 100
+    inctunic: 100
+    selfsynergy: 0
+    spirit: 3.5
+  weight: 1.8000000000000005
+6-compasses:
+  difficulty: 17
+  jp: コンパス6つ
+  name: 6 Compasses
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 0.5
+    ms: 3
+  skill: 0.5
+  subtypes:
+    bosskey2: 2
+    ganonchu: -0.5
+    hearts3: 1.5
+    hearts4: 1
+    map: 15
+    poachers: 0.75
+    skulls: 1
+  time: 13
+  types:
+    botw: 0
+    compass: 15
+    hovers: 2.5
+    incmc: 100
+    selfsynergy: -3
+  weight: 0.49999999999999994
+8-hearts-no-duping-:
+  difficulty: 17
+  jp: ハート8つ(複製禁止)
+  name: 8 Hearts (no duping)
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 1
+    ms: 9
+  skill: 0.75
+  subtypes:
+    skulls: 0.75
+  time: 12.75
+  types:
+    hearts3: 13
+    hearts4: 2
+    inchearts: 100
+    selfsynergy: -3
+  weight: -0.7000000000000001
+din-s-fire:
+  difficulty: 17
+  jp: ディンの炎
+  name: Din's Fire
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    cganon: 1.75
+    child2: 5.5
+    childreset: 1.25
+    compass: 2
+    hearts3: 3.5
+    hearts4: 1
+    incfairy: 100
+    map: 2
+    marketgs: 4
+    skulls: 0.5
+    songs4: 1.75
+  time: 12.75
+  types:
+    childchu: 0
+    chuczl: 2
+    czl: 5.75
+    dins: 3
+    dmcchild: 1.25
+    magic: 1.75
+    selfsynergy: 0
+  weight: -1
+goron-bracelet:
+  difficulty: 17
+  jp: ゴロンの腕輪
+  name: Goron Bracelet
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    bombbag: 100
+    cganon: 1.75
+    child2: 2.5
+    hearts3: 3
+    hearts4: 1
+    incsaria: 100
+    marketgs: 2
+    skulls: 100
+    songs4: 3
+    strength: 100
+  time: 13
+  types:
+    childchu: 0
+    childreset: 1.25
+    chuczl: 2
+    czl: 5.75
+    dmcchild: 1
+    saria: 4.75
+    selfsynergy: 0
+  weight: -0.7999999999999999
+quiver-50-:
+  difficulty: 17
+  jp: 矢立て(50)
+  name: Quiver (50)
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 0
+    ms: 100
+  skill: 0
+  subtypes:
+    bosskey: 2.5
+    botw: -1
+    childchu: -2.5
+    hearts4: 0.5
+    map: 2
+    marketgs: 4
+    skulls: 0.25
+  time: 12.5
+  types:
+    beans: 10
+    bombbag: 100
+    fortress: 3
+    gtg: 1
+    incgcard: 100
+    quiver: 1
+    selfsynergy: 0
+    spirit: 0.5
+  weight: -0.1
+defeat-meg-purple-poe-:
+  difficulty: 17
+  jp: メグ撃破(紫のポウ)
+  name: Defeat Meg (purple Poe)
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 100
+    ms: 6
+  skill: 0.5
+  subtypes:
+    bosskey2: 3
+    compass: 4
+    hearts3: 0.25
+    hearts4: 1
+    incminuet: 100
+    map: 2.5
+    quiver: 4.5
+    skulls: 1.75
+    songs5: 1.5
+  time: 13
+  types:
+    forest: 3
+    hovers: 2.5
+    incforest: 100
+    meg: 8.75
+    selfsynergy: 0
+  weight: -0.1
+beat-the-fire-temple:
+  difficulty: 17
+  jp: 炎の神殿クリア
+  name: Beat the Fire Temple
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0.25
+    ms: 4
+  skill: 0.25
+  subtypes:
+    aganon: 2
+    bosskey: 2
+    child2: 1.5
+    compass: 4
+    forest: 2
+    gtunic: 0.5
+    hearts3: 2.5
+    hearts4: 2
+    hovers: 0.25
+    lightarrow: 3.25
+    map: 2.5
+    pg: 1
+    skulls: 0.25
+    songs5: 2
+  time: 12.5
+  types:
+    dmc: 1
+    endon: -1
+    fire: 10
+    incvolvagia: 100
+    selfsynergy: 0
+  weight: 0.1
+obtain-all-5-small-keys-in-shadow-temple:
+  difficulty: 17
+  jp: 闇の神殿の小さな鍵5つ取得
+  name: Obtain all 5 Small Keys in Shadow Temple
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 100
+    ms: 7.75
+  skill: 0.25
+  subtypes:
+    bossdoor: 1.5
+    bosskey: 3.5
+    bosskey2: 6
+    botw: -1
+    childchu: -2.5
+    chuczl: 2
+    compass: 1
+    hearts3: 2
+    hearts4: 1
+    skulls: 1.5
+  time: 12.75
+  types:
+    bothzl: -3.5
+    czl: 3.5
+    hovers: 2.5
+    poachers: 3.5
+    selfsynergy: 0
+    shadow: 8
+  weight: 0
+open-the-final-door-of-water-trial:
+  difficulty: 17
+  jp: 水の結界の最後の部屋に到達
+  name: Open the Final Door of Water Trial
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 0.5
+    ms: 5
+  skill: 0.5
+  subtypes:
+    bosskey: 4.5
+    child2: 4
+    compass: 4
+    gtunic: 0.75
+    hearts3: 2.5
+    hearts4: 1
+    hovers: 0.25
+    map: 2
+    pg: 2
+    poachers: 2.5
+    skulls: 0.5
+    songs5: 1.25
+  time: 13
+  types:
+    aganon: 3
+    dmc: 1
+    endon: -0.5
+    fire: 7
+    lightarrow: 8
+    selfsynergy: 0
+  weight: 0.3
+clear-8-silver-rupee-rooms:
+  difficulty: 18
+  jp: 銀ルピー部屋を8箇所攻略
+  name: Clear 8 Silver Rupee Rooms
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 100
+    ms: 6
+  skill: 0.5
+  subtypes:
+    bosskey: 3
+    compass: 4
+    ganonchu: -0.5
+    hearts3: 1
+    hearts4: 0.25
+    map: 6
+    skulls: 2.25
+    songs5: 0.75
+  time: 13.5
+  types:
+    aganon: 2
+    bganon: -1.75
+    botw: 0
+    cganon: 1.75
+    fortress: 1.5
+    fountain: 2
+    gtg: 3
+    hovers: 2.5
+    ice: 1.5
+    incsilvers: 100
+    selfsynergy: -3
+    shadow: 5
+    silverrupee: 14
+    spirit: 2
+  weight: 0.1
+fire-medallion:
+  difficulty: 18
+  jp: 炎のメダル
+  name: Fire Medallion
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 0.5
+    ms: 4.75
+  skill: 0.25
+  subtypes:
+    aganon: 2.5
+    bosskey: 2
+    child2: 1.5
+    compass: 4
+    forest: 2
+    gtunic: 0.5
+    hearts3: 2.5
+    hearts4: 2
+    hovers: 0.25
+    lightarrow: 2
+    map: 2
+    pg: 1
+    skulls: 0.25
+    songs5: 2
+  time: 13.5
+  types:
+    dmc: 1
+    fire: 10
+    incvolvagia: 100
+    selfsynergy: 0
+  weight: -0.30000000000000004
+free-all-9-gorons-in-fire-temple:
+  difficulty: 18
+  jp: 炎の神殿で9人のゴロンを全員救う
+  name: Free all 9 Gorons in Fire Temple
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 0.5
+    ms: 3
+  skill: 0.25
+  subtypes:
+    bosskey: 2.25
+    compass: 4
+    gtunic: 0.75
+    hearts3: 0.5
+    hearts4: 1
+    hovers: 0.25
+    map: 2
+    skulls: 0.5
+    songs5: 1.25
+  time: 13.5
+  types:
+    dmc: 1
+    fire: 8
+    incfirebk: 100
+    incflare: 100
+    incgorons: 100
+    selfsynergy: 0
+  weight: -1.3000000000000003
+all-5-skulltulas-in-shadow-temple:
+  difficulty: 18
+  jp: 闇の神殿の黄金のスタルチュラ5匹
+  name: All 5 Skulltulas in Shadow Temple
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 100
+    ms: 11.25
+  skill: 0.25
+  subtypes:
+    aganon: 0.25
+    bossdoor: 1.5
+    bosskey: 3.5
+    bosskey2: 6
+    botw: -1
+    childchu: -2.5
+    chuczl: 2
+    compass: 1
+    hearts3: 2
+    hearts4: 1
+    skulls: 2.5
+  time: 13.25
+  types:
+    bothzl: -3.5
+    czl: 3.5
+    hovers: 2.5
+    poachers: 3.5
+    selfsynergy: 0
+    shadow: 8
+  weight: -0.39999999999999997
+all-5-skulltulas-in-spirit-temple:
+  difficulty: 18
+  jp: 魂の神殿の黄金のスタルチュラ5匹
+  name: All 5 Skulltulas in Spirit Temple
+  rowtypes:
+    bottle: 0.5
+    gclw: 0
+    hookshot: 100
+    ms: 2
+  skill: 0.75
+  subtypes:
+    bosskey: 2
+    bosskey2: 5
+    compass: 2.5
+    hearts4: 0.5
+    map: 3
+    poachers: 0.25
+    skulls: 2.5
+    songs5: 0.75
+  time: 13.75
+  types:
+    fortress: 2.5
+    hovers: 2.5
+    selfsynergy: 0
+    spirit: 5
+  weight: 0.7499999999999999
+open-the-final-door-of-spirit-trial:
+  difficulty: 18
+  jp: 魂の結界の最後の部屋に到達
+  name: Open the Final Door of Spirit Trial
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 100
+    ms: 100
+  skill: 0.75
+  subtypes:
+    bosskey: 4.5
+    bosskey2: 5
+    compass: 1
+    hearts3: 0.5
+    hearts4: 0.5
+    map: 3
+    poachers: 0.25
+    skulls: 1
+    songs5: 0.75
+  time: 13.75
+  types:
+    aganon: 3
+    endon: -0.5
+    fortress: 2.5
+    gtg: 1.5
+    hovers: 2.5
+    incmirror: 100
+    quiver: 1.5
+    selfsynergy: 0
+    spirit: 3.5
+  weight: 1.1
+open-the-final-door-of-shadow-trial:
+  difficulty: 18
+  jp: 闇の結界の最後の部屋に到達
+  name: Open the Final Door of Shadow Trial
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 1
+    ms: 5
+  skill: 0.75
+  subtypes:
+    bosskey: 4.5
+    child2: 4
+    compass: 4
+    gtunic: 0.75
+    hearts3: 2.5
+    hearts4: 1
+    hovers: 0.75
+    map: 2
+    pg: 2
+    poachers: 2.5
+    skulls: 0.5
+    songs5: 1.25
+  time: 13.75
+  types:
+    aganon: 3
+    dmc: 1
+    endon: -0.5
+    fire: 7
+    incshtrial: 100
+    lightarrow: 8
+    selfsynergy: 0
+  weight: 0.05
+open-3-boss-key-doors:
+  difficulty: 19
+  jp: ボスカギの扉を3つ開ける
+  name: Open 3 Boss Key Doors
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 100
+    ms: 10
+  skill: 0.25
+  subtypes:
+    hearts3: 3.25
+    hearts4: 1.25
+    songs5: 1.25
+  time: 14.5
+  types:
+    aganon: 3
+    bganon: -2.75
+    bossdoor: 5
+    bosskey: 12
+    cganon: 2.75
+    gtg: 1
+    incbkdoor: 100
+    selfsynergy: -2
+  weight: 0.9500000000000003
+7-maps:
+  difficulty: 19
+  jp: マップ7つ
+  name: 7 Maps
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 1
+    ms: 4
+  skill: 0.5
+  subtypes:
+    bosskey2: 2
+    claimcheck: 6
+    compass: 20
+    ganonchu: -1.5
+    hearts3: 1
+    hearts4: 2.5
+    poachers: 1.5
+    skulls: 0.75
+    songs5: 1.5
+  time: 14.5
+  types:
+    childchu: 0
+    hovers: 2.5
+    incmc: 100
+    map: 20
+    selfsynergy: -3
+  weight: 1.7500000000000007
+both-hps-in-lost-woods:
+  difficulty: 19
+  jp: 迷いの森のハートのかけら2つ
+  name: Both HPs in Lost Woods
+  rowtypes:
+    bottle: 0
+    gclw: 0
+    hookshot: 0
+    ms: 0
+  skill: 0
+  subtypes:
+    cganon: 1.75
+    child2: 2.5
+    hearts3: 4.5
+    hearts4: 1.5
+    incsaria: 100
+    marketgs: 2
+    skulls: 0.25
+    songs4: 3
+  time: 14.5
+  types:
+    childchu: 0
+    childreset: 1.25
+    chuczl: 2
+    czl: 5.75
+    saria: 2.75
+    selfsynergy: 0
+  weight: -1.7500000000000004
+all-5-skulltulas-in-water-temple:
+  difficulty: 19
+  jp: 水の神殿の黄金のスタルチュラ5匹
+  name: All 5 Skulltulas in Water Temple
+  rowtypes:
+    bottle: 100
+    gclw: 0.5
+    hookshot: 100
+    ms: 100
+  skill: 0.75
+  subtypes:
+    aganon: 0.25
+    bbprize: -6
+    bosskey: 3.75
+    botw: -1
+    childchu: -2.5
+    chuczl: 2
+    claimcheck: 1
+    compass: 3.5
+    hearts3: 1.5
+    hearts4: 2.5
+    hovers: 0.5
+    irons: 2
+    map: 3.5
+    skulls: 2.5
+    spirit: -1
+  time: 14.25
+  types:
+    bothzl: -3.5
+    czl: 3.5
+    dc: 2
+    ice: 1.5
+    inclong: 100
+    incwskull: 100
+    longshot: 4
+    poachers: 3.5
+    selfsynergy: 0
+    water: 4
+  weight: -0.9500000000000002
+3-shields-3-boots:
+  difficulty: 20
+  jp: 盾3種、靴3種
+  name: 3 Shields & 3 Boots
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 100
+    ms: 5.5
+  skill: 0.75
+  subtypes:
+    bosskey: 3
+    bosskey2: 5
+    compass: 4
+    hearts3: 1.5
+    hearts4: 0.75
+    map: 6
+    poachers: 0.25
+    skulls: 1.5
+    songs4: 1.5
+    songs5: 0.75
+  time: 15
+  types:
+    endon: -0.5
+    fortress: 2.5
+    fountain: 2
+    gtg: 1.5
+    hovers: 2.5
+    ice: 1.5
+    incboot: 100
+    incshield: 100
+    irons: 2
+    selfsynergy: 0
+    spirit: 3.5
+  weight: 1.2
+two-fairy-spells:
+  difficulty: 20
+  jp: 魔法のアイテム2つ
+  name: Two Fairy Spells
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 1
+    ms: 0
+  skill: 0.5
+  subtypes:
+    aganon: 0.25
+    bosskey: 3
+    bottleslot: 4
+    botw: -1
+    child2: 5.5
+    childchu: -2.5
+    chuczl: 2
+    compass: 4
+    gtunic: 0.25
+    hearts3: 2.25
+    hearts4: 0.5
+    hovers: 0.25
+    map: 4
+    skulls: 0.75
+  time: 15.25
+  types:
+    bothzl: -3.5
+    czl: 7.75
+    dmc: 0.75
+    dmcchild: 0.75
+    endon: -0.25
+    fortress: 2.5
+    fountain: 2
+    incfairy: 100
+    magic: 1.75
+    poachers: 3.5
+    selfsynergy: -0.5
+    spirit: 2
+  weight: 0.5
+green-gauntlets:
+  difficulty: 20
+  jp: 緑のグローブ
+  name: Green Gauntlets
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 0
+    ms: 100
+  skill: 0
+  subtypes:
+    bombbag: 100
+    bulletbag: 100
+    cganon: 1.75
+    hearts3: 3
+    hearts4: 1
+    incsaria: 100
+    skulls: 0.5
+    songs4: 3
+  time: 15
+  types:
+    childchu: 0
+    childreset: 1.25
+    chuczl: 2
+    czl: 5.75
+    dmcchild: 1
+    saria: 4.75
+    selfsynergy: 0
+    strength: 100
+  weight: -1.7000000000000004
+1-unused-small-key-in-each-adult-dungeon:
+  difficulty: 21
+  jp: 全ての大人のダンジョンから未使用の鍵最低1つずつ
+  name: 1 Unused Small Key in each Adult Dungeon
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 100
+    ms: 10
+  skill: 0.75
+  subtypes:
+    bosskey: 4
+    bosskey2: 3
+    compass: 6
+    hearts3: 0.5
+    hearts4: 2.25
+    incminuet: 100
+    map: 6
+    poachers: 1
+    skulls: 4.5
+    songs5: 4.5
+  time: 16
+  types:
+    dc: 2
+    dmc: 1
+    fire: 1
+    forest: 2.75
+    fortress: 2.5
+    gtg: 1
+    hovers: 2.5
+    selfsynergy: -3
+    shadow: 2
+    spirit: 3
+    water: 2
+  weight: 0.4
+all-4-market-area-skulltulas:
+  difficulty: 21
+  jp: 城下町エリアの黄金のスタルチュラ4匹
+  name: All 4 Market area Skulltulas
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 100
+    ms: 100
+  skill: 0.5
+  subtypes:
+    bosskey2: 2
+    compass: 1
+    hearts3: 3
+    hearts4: 1
+    incminuet: 100
+    map: 2
+    poachers: 0.25
+    skulls: 2
+    songs4: 1.5
+    songs5: 2
+  time: 16
+  types:
+    child2: 5
+    dins: 1
+    endon: 0
+    forest: 3
+    hovers: 2.5
+    incfboss: 100
+    marketgs: 4
+    pg: 2.25
+    selfsynergy: 0
+  weight: -1.2500000000000002
+map-compass-in-spirit-temple:
+  difficulty: 21
+  jp: 魂の神殿のマップとコンパス
+  name: Map & Compass in Spirit Temple
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 100
+    ms: 2.5
+  skill: 0.75
+  subtypes:
+    aganon: 0.25
+    bosskey: 2
+    bosskey2: 4
+    botw: -1
+    childchu: -2.5
+    chuczl: 2
+    compass: 4
+    hearts3: 1
+    hearts4: 0.25
+    hovers: 1
+    map: 6
+    skulls: 1
+    songs5: 0.75
+  time: 15.75
+  types:
+    bothzl: -3.5
+    czl: 3.5
+    fortress: 3
+    gtg: 1
+    poachers: 3.5
+    quiver: 1.5
+    selfsynergy: 0
+    spirit: 5
+  weight: 0.7000000000000002
+defeat-4-different-iron-knuckles:
+  difficulty: 21
+  jp: アイアンナックを4体撃破
+  name: Defeat 4 Different Iron Knuckles
+  rowtypes:
+    bottle: 100
+    gclw: 0
+    hookshot: 100
+    ms: 7
+  skill: 0.75
+  subtypes:
+    bosskey: 7.25
+    bosskey2: 5
+    compass: 1
+    hearts3: 2
+    hearts4: 1.5
+    map: 3
+    poachers: 0.25
+    skulls: 1
+    songs5: 0.75
+  time: 16
+  types:
+    aganon: 3
+    bganon: -2.75
+    cganon: 2.75
+    fortress: 2.5
+    gtg: 1.5
+    hovers: 2.5
+    selfsynergy: 0
+    spirit: 4
+  weight: 0.15
+30-different-skulltulas:
+  difficulty: 22
+  jp: スタルチュラのしるし30個(増殖禁止)
+  name: 30 Different Skulltulas
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 100
+    ms: 6
+  skill: 1
+  subtypes:
+    child2: 1
+    childreset: 1.25
+  time: 16.5
+  types:
+    incskulls: 100
+    selfsynergy: -2
+    skulls: 15
+  weight: -0.6000000000000001
+all-3-elemental-arrows:
+  difficulty: 22
+  jp: 魔法矢3つ
+  name: All 3 Elemental Arrows
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 1.5
+    ms: 100
+  skill: 0.5
+  subtypes:
+    aganon: 1
+    bosskey: 10
+    bosskey2: 10
+    botw: -1
+    childchu: -2.5
+    hearts3: 1.5
+    hearts4: 0.75
+    hovers: 0.5
+    kd: 2
+    map: 8
+    quiver: 4.5
+    skulls: 0.25
+  time: 16.25
+  types:
+    endon: -0.75
+    firearrow: 8
+    fortress: 3
+    gtg: 1
+    incarrows: 100
+    inclacs: 100
+    legitlacs: 100
+    lightarrow: 5
+    poachers: 3.5
+    selfsynergy: -0.5
+  weight: 0.6000000000000002
+10-songs:
+  difficulty: 23
+  jp: 歌10つ以上
+  name: 10 Songs
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 2
+    ms: 100
+  skill: 0.5
+  subtypes:
+    aganon: 0.25
+    bosskey: 3.5
+    botw: -1
+    child2: 3
+    childchu: -2.5
+    compass: 1
+    hearts3: 1.5
+    hearts4: 0.25
+    hovers: 1
+    map: 2
+    skulls: 1.5
+  time: 17.25
+  types:
+    endon: -0.25
+    fortress: 2.5
+    incsongs: 100
+    poachers: 3.5
+    selfsynergy: 0
+    songs10: 10
+    songs5: 15
+    spirit: 2.5
+  weight: 0.05
+clear-10-silver-rupee-rooms:
+  difficulty: 23
+  jp: 銀ルピー部屋を10箇所攻略
+  name: Clear 10 Silver Rupee Rooms
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 100
+    ms: 8
+  skill: 0.5
+  subtypes:
+    bosskey: 5
+    compass: 6.5
+    ganonchu: -0.5
+    hearts3: 1
+    hearts4: 0.25
+    map: 9
+    skulls: 3.5
+    songs5: 0.75
+  time: 17.5
+  types:
+    aganon: 2
+    bganon: -1.75
+    botw: 0
+    cganon: 1.75
+    fortress: 1.5
+    fountain: 2
+    gtg: 3
+    hovers: 2.5
+    ice: 1.5
+    incsilvers: 100
+    selfsynergy: -3
+    shadow: 5
+    silverrupee: 15
+    spirit: 2
+  weight: 0.05000000000000002
+7-compasses:
+  difficulty: 23
+  jp: コンパス7つ
+  name: 7 Compasses
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 100
+    ms: 5
+  skill: 1
+  subtypes:
+    bosskey2: 2
+    ganonchu: -0.5
+    hearts3: 1.5
+    hearts4: 2
+    map: 22
+    poachers: 1.5
+    skulls: 1
+  time: 17
+  types:
+    botw: 0
+    compass: 22
+    hovers: 2.5
+    incmc: 100
+    selfsynergy: -3
+  weight: 0.15
+9-hearts-no-duping-:
+  difficulty: 23
+  jp: ハート9つ(複製禁止)
+  name: 9 Hearts (no duping)
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 1
+    ms: 100
+  skill: 1
+  subtypes:
+    skulls: 1
+  time: 17
+  types:
+    hearts3: 16
+    hearts4: 3
+    inchearts: 100
+    selfsynergy: -3
+  weight: -0.3500000000000001
+defeat-twinrova:
+  difficulty: 23
+  jp: ツインローバ撃破
+  name: Defeat Twinrova
+  rowtypes:
+    bottle: 0.5
+    gclw: 0
+    hookshot: 100
+    ms: 100
+  skill: 1
+  subtypes:
+    bosskey: 6
+    bosskey2: 6
+    compass: 1
+    hearts3: 3
+    hearts4: 1.5
+    map: 3
+    poachers: 0.25
+    skulls: 0.5
+    songs5: 0.75
+  time: 17
+  types:
+    endon: -1
+    fortress: 2.5
+    gtg: 1.5
+    hovers: 2.5
+    incspboss: 100
+    legitlacs: 100
+    selfsynergy: 0
+    spirit: 8
+  weight: 0.1
+1-skulltula-from-each-adult-dungeon:
+  difficulty: 24
+  jp: 全ての大人ダンジョンからスタルチュラ最低1匹ずつ
+  name: 1 Skulltula from each Adult Dungeon
+  rowtypes:
+    bottle: 0.5
+    gclw: 1
+    hookshot: 100
+    ms: 12
+  skill: 1
+  subtypes:
+    bosskey: 4
+    bosskey2: 3
+    botw: -1
+    childchu: -2.5
+    compass: 6
+    hearts3: 1
+    hearts4: 2.25
+    incminuet: 100
+    map: 6
+    poachers: 1
+    skulls: 4.5
+    songs5: 4.5
+  time: 17.75
+  types:
+    dmc: 1
+    fire: 1.5
+    forest: 2.75
+    fortress: 2.5
+    gtg: 1
+    hovers: 2.5
+    selfsynergy: -3
+    shadow: 2
+    spirit: 3
+    water: 3
+  weight: 0.05
+open-all-6-gold-rupee-chests:
+  difficulty: 24
+  jp: 金ルピーの宝箱を6つ開ける
+  name: Open All 6 Gold Rupee Chests
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 100
+    ms: 100
+  skill: 0.25
+  subtypes:
+    bosskey: 5
+    child2: 1.25
+    compass: 2
+    ganonchu: -0.5
+    hearts3: 0.5
+    hearts4: 1.25
+    hovers: 1
+    map: 6
+    skulls: 2
+    songs5: 2.25
+    strength: 1.5
+  time: 18.25
+  types:
+    botw: 0
+    dmc: 1
+    fire: 5
+    fortress: 2.5
+    goldrupee: 15
+    gtg: 3
+    incgolds: 100
+    selfsynergy: -2
+  weight: 0
+3-swords-tunics-boots-and-shields:
+  difficulty: 24
+  jp: 剣3種、盾3種、服3種、靴3種
+  name: 3 Swords, Tunics, Boots, and Shields
+  rowtypes:
+    bottle: 100
+    gclw: 1
+    hookshot: 100
+    ms: 100
+  skill: 0.75
+  subtypes:
+    bosskey: 3.25
+    bosskey2: 5
+    bulletbag: -3
+    compass: 4
+    dmc: 0.25
+    hearts3: 1.5
+    hearts4: 0.75
+    map: 6
+    poachers: 0.25
+    skulls: 1.5
+    songs4: 1.5
+    songs5: 0.75
+  time: 17.75
+  types:
+    endon: -0.5
+    fortress: 2.5
+    fountain: 1.5
+    gtg: 1.5
+    gtunic: 1
+    hovers: 2.5
+    ice: 1.5
+    incboot: 100
+    incshield: 100
+    incsword: 100
+    inctunic: 100
+    irons: 2
+    selfsynergy: -1
+    spirit: 3.5
+    swords: 3
+  weight: 0
+both-rusty-switches-in-spirit-temple:
+  difficulty: 24
+  jp: 魂の神殿の錆びたスイッチ2つ
+  name: Both Rusty Switches in Spirit Temple
+  rowtypes:
+    bottle: 0
+    gclw: 1
+    hookshot: 100
+    ms: 5
+  skill: 0.75
+  subtypes:
+    bosskey: 4
+    child2: 4
+    compass: 4
+    gtunic: 0.75
+    hearts3: 1.5
+    hearts4: 1.25
+    hovers: 1
+    incgorons: 100
+    map: 4
+    poachers: 1.5
+    skulls: 1
+    songs5: 2
+  time: 18.25
+  types:
+    dmc: 1
+    fire: 7
+    fortress: 2.5
+    lightarrow: 8
+    selfsynergy: 0
+    spirit: 5
+  weight: 0
+beat-the-spirit-temple:
+  difficulty: 24
+  jp: 魂の神殿クリア
+  name: Beat the Spirit Temple
+  rowtypes:
+    bottle: 1
+    gclw: 0
+    hookshot: 100
+    ms: 100
+  skill: 1
+  subtypes:
+    bosskey: 6
+    bosskey2: 6
+    compass: 1
+    hearts3: 3
+    hearts4: 1.5
+    map: 3
+    poachers: 0.25
+    skulls: 0.5
+    songs5: 0.75
+  time: 18.25
+  types:
+    endon: -1
+    fortress: 2.5
+    gtg: 1.5
+    hovers: 2.5
+    incspboss: 100
+    legitlacs: 100
+    selfsynergy: 0
+    spirit: 8
+  weight: -0.05
